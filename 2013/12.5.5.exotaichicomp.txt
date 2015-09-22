@@ -1,0 +1,57 @@
+
+*** 
+Either team can turn off the others robot if they think their player is in trouble.  The stanford team disables the berkeley teams exoskeleton.  Bruce's exoskeleton was powered down halfway through.  The berkeley team tries to power down the stanford exoskeleton, but that control has been cut.  Bruce doesn't find out until the next day that his suit was powered down.  After  the battle, his friend says, "dude.  you are so going to get laid." he doesn't. 
+
+MUST have a reference to Bruce's old teacher in here.
+
+***
+
+The arena was a dirt field out behind the old stadium about an acre in size.  Tufts of golden grass had tried to grow everywhere but were mostly ground into the dirt at this point.  It was a dry, warm night.  Some parking lot and stadium lights had been rotated and equipped with cameras the night before by electrical engineering students.  The organizers had really gone all-out.  There was enough splotchy light for everyone to see Bruce standing there, 10 minutes early, just a few feet inside a 20 meter illuminated circle. A number of hovering camera bots were positioned around the outside of the ring, which was surrounded by haybails, and one hoverbot hung 6 feet up in the center of the ring.
+
+The makeshift stadium and parking lot lights didn't look that way to Bruce.  The huds he was wearing for the competition had him standing on a disk of glass floating in a starfield.  He looke around.  His astral navigation skills were not good enough to recognize any of the stars, but he was sure that some astronomy student had picked a fitting location.  He could hear hundreds of students around him cheering, largely intoxicated, but none of that was visible to him.  He also heard the stomp of Dans retro-metal-alloy feet on the dirt at the other side of the ring, although the tournament program had not revealed him visually yet.  He was probably running some test before he entered.  Bruce could only see stars where Dan should be, but man, what he heard told him that suit was huge.
+
+"Fine by me if we stay in the dark." thought Bruce.  He had always been better at push hands with his eyes closed anyway, and his sensors were better than Stanfords.  Bruce flipped on RF reflection sensing and got a detailed outline of Dans suit.  A number of students in the crowd had their HUDs on and could see picture in picture of Dan and Bruce's HUDs - the Berkeley students let out a cheer at seeing the bad-ass-tech on Bruce's PIP, causing Dan to glare over his lumbering shoulder at them.  Dans suit was a pretty simple design fundamentally.  He was pretty sure he could beat Dan at push-hands on a sensor basis.  He was certain he could beat Dan at push hands on a skill basis because most mixed martial artists had no skill at it - they just didn't take push hands seriously.  He would know Dans and his three dimensional center of gravity and momentum better than Dan knew his own.  
+
+Unfortuantely, actually pushing Dan off balance would require a miracle.  They had designed Dans suit to make that virtually impossible - it was huge, heavy, and incredibly strong, utilizing some retro materials to simply add weight.  There were no rules for exoskeleton push hands, yet, and Bruce was the only person on either team that really understood the sport, so he was going to have to use Dans strength to slide past him and somehow throw him off balance.  Dan could literally just play sumo and bruce would have to move past or around him constantly, with superior speed.
+
+Based on his knowledge of Dan Feurgeson in non-suit combat, Bruce knew he would be fighting uphill in the combat phase as well.  He had seen Dan at a [make up martial art here] tournament he had attended on the Stanford campus.  Dan was hugely strong and fast, and extremely tough, a well-rounded wrestler, boxer, and martial artist.  Bruce had been studying Kung Fu and Tai Chi since childhood and he knew his limitations.  It would be a miracle if he could knock Dan out of the ring.  That wasn't required here, fortunately, otherwise his team would have had a hard time convincing Bruce to compete.  Dan knocking Bruce out of the ring, however, was highly probable.  All he had to do was catch him.
+"How did I get talked into this..." thought Bruce.
+
+---
+
+"You're perfect for exosuit competition, Bruce!", Steve had said to him when the day of signups actually came.  Steve was his lab partner and a brilliant guy, but bruce knew his strongest motivation was laziness.  "We need a skinny fast guy!".  
+He was referring to both Bruce's skills with video games, and their rather small donation of muscle-wire.  Bruce considered complaining that he didn't play combat games, and that they had only intended to make a half-exoskeleton before Stanford had challenged them, and that they had plenty of muscle-wire for a large upper-half exoskeleton that they could get someone else to wear.  But he held his tounge.
+"The competition is no big deal anyway.  I doubt anyone will stream it, and it will just be engineers there."
+"No contact?"
+"No contact, Bruce." 
+Bruce sighed, "Steve, if I do this, I don't want to be totally embarrassed.  We have to strip the suit down until I can move normally with it powered off.  The suit can't break." 
+"O.k. Bruce.  No problem.  We should focus on making it reliable anyway.  It has to work for final demo to get credit."
+"And you have to get the detector algorithsm perfect, Steve, or I could get hurt.  Ten-to-one-test-first, Steve."  Ten to one referred to the minimal ratio of tests per feature required for passable quality software.  It took longer to write software that way, but that software usually worked. No modern day programmer would ever admit to anything other than ten to one, but college students were generally not required and had not formed the habit, especially outside of the computer programming department. 
+Steve gave Bruce a pained look and said nothing.
+Bruce waited.
+"Well?", said Bruce.
+"I'm trying to decide if I would rather write that many tests or be crushed by Stanfords exosuit."
+"We'll write the tests together.", said Bruce.  Bruce knew Steve was the best programmer he had ever met.  If he could get him to pair on the software for this exoskeleton, they would get full credit.  Secretly, Bruce was completely entranced by the idea of competing in an exosuit.  He was a martial arts geek at heart, and this was new territory.  In his heart he knew contact was likely, but he meant to avoid it.  Having the fastest suit was the best way to do that.
+
+----
+
+So here he was.  Before they turned his HUDS on, he had seen at least 100 students out there.  It sounded quite a bit louder now.  From the noise, he guessed half the school was crowding around.  Dan was probably used to this, he thought.  One more advantage for Dan.  
+
+The announcer had made up some cute names for Bruce and Dan and introduced them, adding actual suit video to the The image of Dan in an exoskeleton appeared before Bruce via the intentionally cheesy wavy dissolve effect.  That brought a couple laughs from the crowd, as well as a few oohs and ahs as Dan suit was revealed.  It was huge.  Dan was two meters tall and his suit made him at least a meter taller.  Rules stated that suits had to be human-proportional.  Bruce was five foot five, and his suit added almost nothing to his height.  He quickly calculated the exact reach disadvantage.  Dan raised both arms to wave to the crowd to uproarious cheers.
+
+The display resolved terminal text against the startfield that listed a number of scoring fields for push hands and combat next to each university name, again in cheesy wavy resolve.  A familiar female voice read some welcoming announcements, and announced the drivers of each suit.  Dan actually jumped a meter in the air when his name was called.  Bruce wasn't even sure he would take that kind of risk with his suit!  Bruce raised one hand above his head robotically when his name was called.  Dan laughed at that.  
+
+The announcer stated the rules for push hands.  [explain push hands] They were to walk to the middle of the stage, touch the back of each of their right wrists together.  They were to keep their wrists touching at all times, and keep moving.  They would guess the center of gravity and overall momentum of themselves and their opponent, and when theirs was lower, they would push, if they were right, the opponent would stumble, rather than dig in.  Both feet must stay on the ground or a point is awarded.  No grabbing or striking.
+
+
+****
+
+Ways bruce can win combat:
+
+Dumb - Malfunction in Dans suit or huds, dan ends up on his back, but still dangerous, like that kung fu guy vs. shamrock, bruce simply refuses to engage him.  He either can't get up or his suit takes so long to get up that bruce kicks him in one knee and he's back down.  Bruce just keeps doing that and they all count as knockdowns.  How does he end up on his back?
+
+
+
+
+
+

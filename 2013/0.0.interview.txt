@@ -1,0 +1,471 @@
+Human Resources
+
+----------
+
+Quin walked into her kitchen and took in the sweeping view.  Lush, green Detroit.  
+
+Fifty four stories in the air, with outer walls that were glass from floor to ceiling, her apartment offered offering a clear take on the outside world.  Her floor and ceiling were painted with display-paint.  Together with the windows, they provided a near-seamless illusion of a glass-room, suspended in mid-air.  Below her, Palmer Park.  Above her, blue skies.  She almost never remembered that from the outside, her apartment walls were part of an advertisement one hundred stories high.
+
+She didn't have to look down at the kitchen table to know her coffee was already there.  It always was.
+
+She stretched and yawned, then sat down and picked up the mug.  Steam and anticipation washed over her as she lifted it to her lips.  
+
+For a moment, only the coffee existed.  Her first sip warmed her entire body on it's way down.  It always did.
+
+Her tastebuds rejoiced.  Her eyes slowly reopened.  
+
+Arlington, Quins chat bot, detected the subtle lowering of her cup.  He activated the room feeds in her kitchen - tiny assemblies of audio visual equipment embedded strategically in the walls.  They shined light on her retinas, causing documents to materialize before her eyes.
+
+Quin saw that her days work, for the most part, had already been done.
+
+"God damn I love you Arlington.", Quin said.
+
+Arlington took in the audio and video of Quin through the room feeds, but he was not programmed to respond to this input, and so remained silent.
+
+-----------
+
+New hire evaluations, like most communications Quin delivered, were drafted by Arlington according to programming that Quin prescribed.
+
+The room feeds arrayed throughout her kitchen were projecting a draft of a new hire evaluation, that Quin was to deliver to a hiring team shortly.
+
+Arlington had summarized three job applications, and performed the backround research required on the applicants - crawling networks and hiring researchers as needed to fill a preliminary evaluation out.  The resulting evaluation of the candidates was impartial, factual, and logically presented.  
+
+Quin could have sent it off right away, without editing, to the rest of the hiring team, but that would have been bad form.  
+
+So before sending it off, she edited it, giving it a bit of character - making it read a little more "human".
+
+Then, with a swipe of her hand in the air, off it went to the team.
+
+---------
+
+Quin had access to view the physical locations and personal details of each member of the hiring team, but she didn't bother to look.  None of them were personal acquaintances.  The hiring algorithm hadn't put together an eval team of people who knew one another in ages.  
+
+So while Quin was editing, Arlington was out doing the distasteful work of socializing.  Quin always let Arlington engage in the usual small talk and pleasantries, usually taking only a cursory glance at the log.  
+
+Since all the other team members had their conversation bots on, the usual "Why hello, how are you?", "I'm well.  It's sunny here.  I'm ready for the eval session!", etc. between the five members of the team took place in milliseconds.
+
+Arlington had also been researching the background of the other members of the eval team, as they were added.  The conversation bots of the other members had, of course, done the same.  They did this entirely through open sources of information, out of respect for one another.  
+
+Knowing ostensibly what was of interest to each member of the team, the conversational bots suggested future-conversations to one another based on the common interests of their owners.  
+
+Having observed Quins behaviour and mental activity for over 20 years, Quins conversation bot was well versed in her interests.  It found that Che Anderson, another member of the eval team, was interested in certain aspects of military history, and had discussed this knowledgably in the past with people that Quin respected.
+
+Quins bot registered a potential personal conversation with Ches' bot.  
+
+Che Anderson's conversation bot probed further: "Would Quin be interested in discussing the pre-historic technology of war?", it asked.  It asked a thousand other questions that were relevant as well.  
+
+Where Quin's bot was authorized to answer, it did so, and it returned the favor, asking for details on an equally great number of minor interests, potential interests, desired skills, and contacts.
+
+After comparing notes, Quin and Ches bots mutually agreed that a conversation between their owners would ultimately not be in their respective interests.  Niether Quin nor Che were notified of this fact.
+
+-------
+
+As soon as Quin was done editing the evaluation, she pressed 'send'.
+
+-------
+
+<start eval>
+
+Prepared final eval from chairwoman Quin Song:
+
+We've got three talented individuals today:
+
+As always, based on their public works, we want them all, subject to crazy.  
+
+The only questions are: 
+
+What do we have to do to get them full time?  
+What should their contracts look like?, and, most importantly,
+Is it possible to handle their particular flavors of crazy?
+
+Allow me to introduce the candidates:
+
+First, Rami is a management machine.  At age fourteen, he won a pattern-match competition against DeClerks five peta-node cluster, using only one other teenager, and a flash-mob of HUDs.  He did it by mapping TRIZ-7 onto a competitive HUD-game, which got him over a million high-quality inputs per second to his suggestion algorithm.  His personal network is valued an overall 183, and his implants are hacked Microsoft 178As.  He was a provisional member of freenet for three years but renounced his membership entirely last April.  For the last twelve months he has released 8K lines of code and 25KB of public text.  Personality profile shows no known liabilities other than possibly a little misdiagnosed depression.
+
+Second, Dave is a networking monster and a minor historical figure.  You've heard of the Exocorps.  Dave's the last known survivor.  His implants are all custom upgrades from Klamath Robotics Lab.  They were ancient at one point, but they've been upgraded regularly (we assume against US law) with help from his "friends and family".  Lost his legs in the Exocorps ten years ago.  Between the exocorps implants and his new lower body he's 75% machine.  His network is valued at 9,876,032, and we've got over 20MB of public text in the past twelve months from him.  He has well known opinions, which some might consider extreme, on both the Arcane and on any decision network with automation at Ring 0.
+
+Finally, Tina brings a hugely productive creative mind to the table.  She has written over five hundred short stories in the last forty years, specializing in flash ficiton and futurism, each story including at least one novel illustration or design.  She is an artistic collaborator with the Virt Foundation on seven virtual world projects, notably the popular "Off-Planet" multiverse.  In the last 12 months she has produced 2K lines of fiction and has designed sixty-four virtual characters with an average Neurenbaum AI complexity of 4.  One might consider Tina a philanthopist.  She founded and runs Magic-Recycling-Machine, which recycles all of it's proceeds into charities that provide human-made art pieces as thank you letters.  Those art pieces are then auctioned on the Magic-Recycling-Machine site, and the proceeds rolled back into donations to the same charities that provided the art, and so on.  Magic-Recycling-Machine is likely responsible for the creation of over one billion pieces of art, and untold donations to charitable organizations.  Network is worth 2,300,875, 1.5MB of public text in the past 12 months, and mentally she can be a little fragile at times, but nothing too limiting.
+
+The candidates are standing by for their timed problems.  
+
+If we agree to test them, the proposed educator group, Stanford-87438-B, has prepared a single problem for each candidate based on their profile.
+
+Stanford-87438-B has an avearage score of 87.1 in detecting low-output candidates, and a 75.4 in detecting undesirable personality characteristics.  This puts them in the top 1% of educator teams in developing and grading hiring problems.  The total cost of developing the problems, and independently evaluating the results, will cost 34.87SKI.  Yeah, it's expensive, but educators gotta eat somehow, and these guys are good.
+
+Shall we proceed with the testing phase?
+</end eval>
+
+It was unanimous.  All five of the evaluators agreed to test all three candidates immediately.  
+
+-----
+
+"That should take a while.  Hope we get the girl.", Quin said aloud.
+
+Since she was officially at work, she was required to stay online, but not to check in.  The educator group was unlikely to page her.
+
+So for a large chunk of the morning she held her cat and danced around in her underwear to classic rock.
+
+-----
+
+The educator group, Stanford-87438-B, was a small network of teachers with similar expertise to that of the candidates.  On receiving their comission, they sprung into action.  Complex business and technical problems were presented to each candidate.
+
+Several educators conferenced in with each candidate, and began working on the problems with them.  The educators represented less-than-ideal co-workers.  
+
+Over the course of a two-hour problem-solving marathon, Stanford-87438-B not only evaluated the candidates abilities, but they evaluated the candidates ability to deal with a wide variety of co-workers, collaborators, and nasty surprises.
+
+After the problems were solved, they surveyed the candidates for compensation.
+
+They completed their interviews, and an automated summary was provided immediately, with a final analysis due 20 minutes later.  
+
+-----
+
+A few minutes before the interviews were completed, the music in Quins implants quieted, and Arlington cut in with a soft reminder, "The meeting concludes in twenty-eight minutes.  Conversation logs with the rest of the hiring team are available for your review, Ms. Song."
+
+Quin dumped the cat on the couch and sat back down at her breakfast table.
+
+She swiped in the air a few times and quickly brought up the conversation logs.  A few minutes of work and she had the logs colorized by interest-correllation-strength.  She was about to dismiss them all when she noticed a blip of correllation under the top level category Artificial Intelligence - a connection that had been dismissed by Arlington.  Another member of the hiring team, Che, had written a paper Quin had read long ago - "Hidden Links in Organismic Computing through Distributed Organizations" - hypothesising a number of methods by which humans with implants could be made retransmission nodes without their consent or knowledge. 
+
+Quin popped the paper up and Arlington immediately produced a summary alongside it.  The projections of the paper and summary were semi-transparent because Quins cat had jumped on the kitchen table and was blocking one of the retinal projectors.
+
+"Shoo, Fluffy!", Quin said, but Fluffy continued to lick himself.  She kept reading.  It was fascinating.  It was an exact parallel to her current research on Biological Trojans.
+
+"Yup, I remember this work.  He's a genius.  I have *got* to meet him.", Quin said.
+ 
+She realized she was excited.  She could feel her heart beat.  
+
+-------
+
+But Quin hadn't got where she was today by allowing her knowledge of tools to get dull.  She quashed any excitement she had and leapt into action, immediately and aggressively investing in improving Arlington.  
+
+Her first task was to understand exactly why Arlington had missed something as interesting as this to her, and ensure that it never happened again.  Because she worked on improving her tools a dozen times a day, this task took less than a minute.  When she finished it, she tagged her sanitized analysis as open-source, and it found it's way to others who had similar problems with their own chat bots.
+
+Her second task was to spend a few minutes queueing tasks for Arlington, mostly searches for productivity tools that could be plugged into Arlington himself - she allocated the usual budget to Arlington to engage others to conduct the research.  
+
+Finally, she scheduled a couple hours that evening with Arlington to study the new tools.  
+
+Five minutes later, she was a more valuable person, and the net was using her experience to improve bots everywhere.
+
+She took a moment to admire her handiwork, arrayed in front of her as a formally structured project.  When she closed the project, it's work screens disappeared and she found herself looking at Ches paper on Hidden Links again.  Her excitement came back.
+
+---------
+
+Quin brought up Che's profile.  
+
+"Handsome.", she said.  Fluffy wagged his tail.
+
+She hesitated when she saw Ches communications options.  Che sure did like video chat.  It was the only direct communication method he offered.  It had been years since she been in a video chat.
+
+Arlington played a soft musical reminder that the meeting was about to rejoin.
+
+"Dang!", Quin said, as she fell back into work-mode.
+
+----------
+
+While she waited for the final analysis from the educator team, Quin pulled up the automated summary from Stanford-87438-B.  
+
+The candidates Ability numbers were just outstanding - off the charts.
+
+"Wow" - Quin mouthed the word while she stared rapt at the analysis.
+
+Dave was a no-brainer.  He would slot right into marketing.  All he asked for was base pay (expenses, medical care, and pocket change).  Ridiculously good value.  Costs could be controlled simply by assigning him the right tasks.
+
+Tina was off the charts creative and brilliant.  But her Cost numbers were even higher.  She was asking for a totally unreasonable contribution to charities of her choice based on network revenue.  There was a negotiation to be had there.  
+
+Rami was either the smartest candidate she had seen, or the best at gaming the system.  Either way he was equally valuable.  But his Cost numbers had no confidence level.   
+
+----
+
+When the final analysis came in, things got clearer.  The team weighed in and cast their votes.  The votes were tallied and results returned instantly.
+
+Dave made it in.  He was simple as could be.  As long as he could attend virtual events and network internally, he could pay a years salary in a days work.  He would work short, predictable hours.  Win-win for everyone.
+
+Tinas case would be turned over to a negotiation team to see if some accomodation could be made to bring her overall Value numbers in-line.  
+
+Rami didn't make the cut.  He had all the flaws of the knowledge worker of old.  Intuitively, the eval team knew that Rami was gaming the interview, even during the interview itself.  Toward the end of the interview, they suspect he had teams of interviewers helping him.  That wasn't against the rules, per se, but when they called him on it, he dove into psychology and philosophy.  When a domain expert suggested a reasonable next step, Rami couldn't help himself from competing with him.  In the end, the team decided Rami had so little confidence outside his intellectual ego, that his long term decision making was completely compromised.  No wonder he was depressed.  His entire review transcript and analysis were released to him.  Maybe he would make it into one of the less selective networks.
+
+--------
+
+Quin scrambled to add an epically long comment for the negotiation team, brainstorming on the possibilities she saw for Tina within the network, doing the numbers on possible revenue sources and business models that came to her head, asking Arlington to research similar comments on similar candidates and incorporating the most convincing arguments.  
+
+Five minutes later and the voting and commentary period had closed completely.  The interview process was over for the day.  
+
+In the time it took Fluffy to bat his tail, the conversation bots for the interview team flew back into high gear and powered through various goodbyes, niceties and platitudes that no one needed to see.
+
+--------
+
+1 Win.  1 Loss.  1 Tie.  Not bad.  Quin didn't smoke, but she felt like she needed a cigarrette.  
+
+She leaned back in her chair and stared at the ceiling.
+
+The room feed on the kitchen ceiling kept the meeting data in front of her.  
+
+A pulsing indicator over Ches name snapped Quin out of her trance.
+
+"Oh.", she said, realizing that she had just trained Arlington, correctly, to set up meetings with people like Che. "I guess that worked."
+
+Evidently, Ches conversation bot had felt the same way about Quin, because her display indicated an incoming meeting request with a one minute expiry.
+
+Quin hesitated.  She pulled up Ches profile again.  She got excited.  She opened the meeting invite.
+
+"Oh! A video call!", Quin said, bolting upright.  She scrambled to fix her hair, trying to remember what video chats were like.  She hadn't been in a video conference call since she was dragged out of bed seven years ago for an emergency meeting with a government contractor to her network.
+
+All Quin remembered about that call was being completely horrified to find her hair was standing straight up at the end of the meeting, instead of in the complex hairstyle she was accustomed to.
+
+Quin had the kind of beauty that made things like hair irrelevant to most men, but to Quin, her hair was a huge deal.  She was never seen in public without having styled it.
+
+Quin had one wall camera zoom in on her hair - it looked terrible!
+
+She ran to the sink.  She had all the nearby cameras zoom in on her hair, from different angles, and locked them into position.  She applied some water to her hair.  She poked, prodded, and teased it, adjusting the cameras to fixed angles, zooming in and out.
+
+Arlington cut in, "The video call offer will expire in thirty seconds, Quin."
+
+"Oh, Damn!", Quin said.  
+
+Quin made a few final frantic adjustments to her hair.  Then she turned off the camera views, pulled up Che Andersons paper, jumped back into her seat at the kitchen table, and stabbed at a virtual "start meeting" button.  She adjusted her composure to display total cool.
+
+The smiling face of Che Anderson appeared alongside his paper as fluffy stood and began to lick himself, creating another transparency. 
+
+"Hello, Mr. Anderson.", she said, trying not to be distracted by what Fluffy was licking. 
+
+"Oh...", Che said, his look changing from happy anticipation to quizzical surprise, then to head-tilted curiosity "uh...hi."
+
+Quin uneccessarily tossed her hair.
+
+"I have to say I was fascinated by your paper on Hidden Links in Orgasmic Computing.  ", she said.
+
+If anything, Che's head turned further to the side and his look became more puzzled.  "Um...Orgasmic?", he said.
+
+"Oh, uh...hehehe...um...my mis-", Quin started.  
+
+"Is that...your underwear?", Che interrupted.
+
+Quin's face turned beet red.  She realized then that she had pointed all her wall cameras in fixed directions.  Directions that were optimal for viewing her hair whilst standing over her sink, but potentially inappropriate for sitting at her kitchen table, in her underwear, chatting with a handsome co-worker, for the first time.
+
+She reached up a hand and pulled down her room feeds menu, then touched the "all cameras" icon.  Pretty much every embarassing view of a person she could imagine was represented among the many camera streams.  A view of her armpit here, her unshod feet there...and front and center, the camera stream that Che seemed to be asking about - a close up of her butt from behind - in her tiny underwear.
+
+"Oh!", she said, and started madly punching at buttons, seemingly incapable of darkening the cameras.  Then she tried changing the camera angles, more successfully.  She swiped madly in the air, pointing each camera away, in rapid succession.  A couple seconds later, none were pointing at her, but instead in random directions about the room.
+
+"Sorry!", Quin said.
+
+Che laughed. 
+
+"Don't worry about it!", Che said. "I can call back."
+
+"No!...Uh, o.k. I mean sorry!..Give me a second.", Quin said, still looking for the controls to turn off all the cameras and not finding them.
+
+The central camera in Ches view was now pointed at Fluffy, who continued his relentless licking of a personal area.
+
+"I liked the other view a lot better.", Che commented, trying to control his laughter.
+
+Quin started to make a dash for the bedroom, but looked at the camera views, and saw them as laser beams she dared not cross without exposing her butt to further humiliation.  She hesitated.  She started to move again.  She stopped.  She looked all around her at the cameras.  
+
+"Aaaa!", Quin said,  "I'll be right back!"  
+
+She grabbed fluffy and held him over her midsection as she hobbled toward the bedroom, pigeon-toed, passing in front of every camera along the way.
+
+Che got comical views of Quins escape from just about every angle.  He couldn't hold it in any longer.  He busted up.
+
+"I'll try...I'll try not to make the obvious jokes.", Che said.
+
+--------
+
+When Quin returned a minute later, she was dressed in a stylish robe.  Her hair was perfect.  The room cameras were set to auto, and only one was active, following her face and upper torso.  She sat carefully, systematically placing her hands palm down on the table, and smiled cautiously.
+
+"Can we start over?", she said.
+
+Che laughed, "Of course.  Sorry to spring this old-fashioned tech on you.  You have to admit it's more exciting than the mind-linked VR the cool kids are using."
+
+Quin spoke slowly.  "I can't speak to cool right at the moment.  But the kids are on to something."
+
+"We can switch to implants if it makes you more comfortable.", Che said.
+
+"I'll stick with what's working for now.  Thanks.", Quin said.
+
+Che laughed.  He had a big, warm laugh that almost terminated in a giggle.  It relaxed Quin a bit, who started to smile.  Che was a big person, with big, handsome features.  
+
+"O.k. I've had the same problem with my room feeds - they keep changing the interface.", Che said. "I once gave camera control to my boss's Terrier.  Took me half an hour to figure out why my cameras were randomly following my pets around in our meeting."
+
+Quin managed a little laugh at that.
+
+"So, as I was saying", Quin said, "Your paper on Hidden Links in Org-*AN*-*IS*-mic Computing heavily influenced my own work on Biological Trojans."
+
+--
+
+"I *have* heard your paper cited.", Che said.
+Quin glowed.
+Che continued, "Tricky stuff.  Hard to keep a Trojan virus hidden these days...harder to use it to target implant function."
+"That's true.  We are finding more Trojan viruses all the time.  Targeting implant function is the harder part today.", Quin said.
+"That's an argument for attackers to design Biological Trojans the old-fashioned way - trigger over time or on uptake of a catalyst, release a payload - maybe a neurotransmitter or two.  Stick to what they know."
+"True, there is an argument to be made for creating two totally separate viruses, one for biology, and one for the implants.  Or use biology alone - like the Control Substance."
+"But you have other ideas...", Che said.
+"It's harder to design defenses for implant electronics.  In biology, defense is adaptable and automatic, every cell is a modifiable sensor.  In hardware, circuits are mostly fixed.  When designing an attack, everyone wants to go up against the unchanging hardware, if they can.  However...infecting an individual twice, with *both* bio and hardware virii, is more than twice as hard.  Infecting the hardware is considerably harder than the biological vector.  You often need direct access to the hardware - and if you have that kind of access to an undefended individual, well, you might as well deploy a rubber hose attack."
+
+Che held up a finger as he disappeared from view.  A second later he reappeared brandishing a piece of rubber hose.  "You're right", he said, swinging the hose, "Keep talking!"
+
+Quin laughed.
+"Corny, Che.", she said.
+Che feigned sheepishness and put the rubber hose away somewhere out of view.
+"They were handing those out at Toorcon last year.  I see what you're saying.  I've been looking at the stats in your paper as we chat.  Exploiting an implant...moving from bio-trojan to hardware trojan.  That would be a huge win.  After all, most cells tend to get replaced, taking the bio-exploits with them."
+"Exactly.  Biology is all software.  Too adaptable.  Target the hardware."
+"Makes sense...", Che rubbed his chin.  "Lets think about this...any dynamically shared resource is a channel for communications.  I proposed that a Trojan could use any part of the body to communicate.  However, hardware is the most interesting communications medium for a Hidden Link...Buuuut...on the other hand, what you propose is hard to design even if it may be more effective - our understanding of our own biology is *still* relatively poor compared to our understanding of digital hardware, which we can usually find designs for."
+"I'm not arguing that designing a bio-trojan to attack implants is easy.  It's like writing a trojan requiring double the exploits.  Harder, even."
+
+Che fell into chin-rubbing again.
+
+Quin continued, "But you get a lot out of it.  It's still much easier to deliver a virus via biological means.  And when you have the biology exploited, if you can make the hop to the hardware, people won't know what hit them.  They might *think* they can completely eradicate your bio-trojan, but for all their efforts, your trojan is sitting pretty in their implants, doing its job."
+"Yeah...", Che thought aloud, "It would be wild to think that a hardware exploit could make the leap *back* to biology."
+Quin laughed, "I don't even want to know if that's possible!"
+Che joined her laugh, then stopped and looked wistful.
+"Call me an old fashioned immunologist.  I miss the days when bio and software viruses were connected by analogy only."
+"Nothing lasts forever.", Quin said, wiping a laughter tear away. "Evolution sees to that."
+"Every seen anything make the jump?", Che asked.
+"From bio-trojan to hardware trojan?  Not outside of a lab.  You have to design the bio-trojan to target a specific hardware vulnerability.  I proposed a few possibilities, and defenses.", Quin said.
+
+"There they are!", Che said, his face lighting up with the discovery.
+Che dropped a few links into the chat.  
+"I knew I had seen these before.  Check these out when you have time.  My chat bot just dug them up.", Che said.
+
+Quin took a quick look.  All the papers concerned exploits of early military implants, mostly using energy weapons to do horrible things.
+
+"I *said*, I didn't want to know if that was possible.", Quin said, obviously excited, "All the same, I'll survey these...".  Quin focused for a moment on the papers before turning back to Che.
+
+"None of them are real jumps.", she said, "There are a couple instances in there where some Chinese implants got modified.  At one time, the Russians seemed to be pretty good at making the Chinese implants 'predictably unreliable'."
+
+Quin had Arlington search the papers for "any attack via biology that indicates a possible zero day exploit against implant hardware."  As quickly as she typed it, Arlington came back with an answer: "No results."
+
+<I'll have to train you to answer that one, Arlington.>, Quin thought to herself.  She then became absorbed in reading and running searches herself, speaking and working without looking back at Che.
+
+"Studies show there have been some DOS attacks through biology - disabling implants.  It *is* possible that some of these were attempts at reprogramming attacks - putting implants into a config mode and feeding them data - but that's basically impossible with most implants.", Quin said. "What I anticipate is a bio-trojan that seeks out implants, attaches to the junction between the implants and the nervous system, where the implants take their input.  The trojan can then release chemicals according to DNA programming.  You get the usual software exploits that way - buffer overflows, etc.  I just haven't seen one yet.  Certainly none of these examples fit that category."
+
+Quin finished her reading and looked over at Che. 
+
+"Nothing.", she said.  "Still, if any Trojan is going to make the leap from hardware implants to biology, it would leap into those military implants those things are nuts!"
+"Agreed.  But when you practically have to rebuild a soldiers body, those nanobot factories start to make sense.", Che said.
+"Do those nanobots even work?", Quin asked, "I've heard nothing but horror stories about military implants."
+"Recently, I believe the answer is yes.  Secret stuff, but there is some pretty good history on them.  The same tech is supposedly in trials for degenrative nerve disease."
+"Wow.  I knew there was a reason I wanted to chat with you.", Quin smiled.  
+
+Che smiled but didn't respond to that.  He was absorbed in his own research, obviously looking at screens arrayed about him.
+
+Instead, he shared his research.  Quin saw his screens appear to her left.  She shared hers as well.
+
+"Any idea when nanobot factories were first deployed in implants?", Quin asked.
+
+A full minute passed before Che acknowledged the question, slowly repeating it, without looking up from his research.
+
+"Any...idea...when...factories...first...yes...", he said.
+
+"Well?", Quin asked.
+
+Che looked up from his research, "Sorry.  The first experiments I could find are, surprise! surprise!, US Military.  Joint venture between Boeing and Klamath Robotics Lab, supposedly...I wonder if those could have been used by the Exocorps..."
+
+"I don't know much about the Exocorps", Quin said.  Arlington filled an info window with information on the Exocorps as she said it.
+
+"You're aware of the Battle of Sierra Leone - the guy we just hired, Dave Linde, he Led the Exocorps in their last stand, there."
+"Aware, yes, I've read about it in the history section of wikipedia.  I knew he was involved from his resume.  I haven't read anything else about it."
+"Oh, you should read Kaut.", Che said.
+
+Arlington dutifully found all books by authors named Kaut that mentioned the Exocorps. Quin dragged the most obvious book from the informatino panel into a new window, and scanned it.
+
+"This is some conspiracy theory stuff.", Quin said.
+"Yup.  Blow your mind.", Che said, dropping a link to a VR mashup called 'The Triumph of the Arcane' into the conversation. "This movie was just plain formative for me."
+
+[Need to work on this part.]
+
+"Um...o.k.", Quin said.
+"What, don't believe in the Arcane?", Che asked, smiling.
+Quin looked down and scratched the back of her neck, evading the question.  She was trying *not* to express the dissapointment she felt - <but Che seemed so normal!>.
+"I'll send you some light reading on the subject - The Arcane aren't just a Saturday Night Live skit - there is also a history there.  They only disappeared from the limelight after the Exocorps mission.  They did not disappear."
+"You really believe that?", Quin asked.
+"I'll put it this way, either the Arcane exist, or a secret organization that pumps out new military technology at an astounding rate exists, and it has been testing that technology using contract armies for the last ten years."
+"I might believe the second, if you could tie the incidents together.", Quin said.
+"Good choice.  Believe the second and just call what you believe the Arcane.  That's what I do."
+"I suppose you are going to tie those incidents together for me, now?"
+
+"And when you are done with that, I've got some more light reading for you.", Che said, and dropped a link to a research paper into the chat window.
+The research paper was [a paper by dave lindh connections between events pointing to a distributed organization behind the conflicts employing theretofore untested military technology.]
+
+
+[request to read Kaut here?]
+
+"You're aware of the Battle of Sierra Leone."
+"Aware, yes."
+"He Led the Exocorps in their last stand, there."
+"Oh, you should read Kaut.", Che said.
+
+Then suddenly he looked up. "Quin.", he said.
+
+Quin was completely absorbed in reading again.
+
+"Hey, Quin.", Che said, "I found the answer to that question."
+
+Che continued, "The nanobot factories were first deployed in Boeing Optics Division implants about ten years ago.  Totally experimental.  Part of a huge effort to create military technology that is widely regarded as a noble but huge failure."
+
+Quin was frowning, studying both of their reasearch screens alternately. "Yeah.  I saw that."  
+
+"If the rumors are true, those Boeing Optics would be the most effective devices for implementing hidden links available.", Che said. "They have incredibly broad transmit and receive spectrums.  A trojan could communicate from low frequency RF right up through ultraviolet, at least.  The person with the implants would never know."
+
+"You know what I'm talking about, now, Quin?"
+
+Quin finished what she was doing.  She looked over at Ches research.  Che had closed all the pages but one, an interview with Dave Lindh.  
+
+The interview included a photo of Dave, smiling.  His optical implants unmissable; His eyes reflected the light as if they were full of shiny metal shards.
+
+"Oh.", she said.
+
+"He's perfect.  I'd be shocked if he wasn't a Hidden Link.  For the US Military, at least."
+
+Quin frowned.  
+
+"Far and away, this man is also the best candidate for a Crossover Trojan that I have ever seen.", Quin said.
+
+And now he was part of their network.
+
+"Wild, huh.  Makes you wonder why we were given this assignment.", Che said.  
+
+Che wanted to say that he liked her.  That he was sure that the paranoids had put them on this assigment, and that he was sad that they were going to be under investigation, and he hoped he would see her again.
+
+"Yeah.  Glad we found it.", Quin said, softly, "I think we had better have a chat with the Paranoids."
+
+Che smiled weakly.  "Yes.  We...uh...will.  Uh...It was a real pleasure working with you today."
+
+"You, too, Che.  Bye.", Quin returned the strained smile with as much genuine warmth as she could muster.  
+
+The connection to Che closed. 
+
+Quin had already initiated the page to the Paranoids, sending them the entire chat log from her conversation with Che.  
+
+She had been interviewed by the paranoids once before.  It wasn't fun.  Her apartment, her data, everything she had was about to be taken apart and put back together.  Just initiating the page consented to the Paranoids taking over her computing systems - all of them.  If she had to classify the experience, she would say it felt like a multi-day colonoscopy by an intimidating psychiatrist who also happened to perform audits for the IRS.  She might even have to move.  She hoped she could stay in the building.
+
+Not telling the Paranoids about a potential security breach was worse than that.  You could be kicked out of your network.  
+
+"It's going to be o.k. Fluffy.", she said, as the windows, the floor, and the ceiling faded to a uniform, light grey.  Quin didn't want to see how it started.  She hated the Paranoids logo, a digitized face with a third eye.  It was creepy.
+
+Quin turned away from the windows and buried her face in Fluffy.  
+
+Fluffy, looking behind Quin, tilted his head as the Logo of the Paranoids faded into view on the grey window.  
+
+[Most definitely need to have Che refer Quin to the SL battle book. Maybe they need to take a break while she reads that.]
+[I think I need more on hidden links, and why hidden links and crossover together make the ultimate, unstoppable pair]
+
+--------
+Removed stuff:
+--------
+
+
+Che continued, "Using hosts as low-bandwidth carriers of data packed into the DNA and RNA of a virus is common in the covert world - it's even been found in corporate espionage, but there are other transmission mechanisms nowadays."
+
+
+Arlington, as active during the conversation as Ches chat bot was, busily fed research relevant to the conversation to Quin.  Most of the time she ignored it, allowing it to scrollby on an information panel that Quin had told the room feeds to keep in place a few feet to the right of her.  When Che mentioned the author "Kaut", Quin glanced over at the information Alrington had prepared on the topic.
+
+
+
+
+
+
+
+
+
+
+
+
