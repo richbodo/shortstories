@@ -1,4 +1,4 @@
 shortstories
 ============
 
-Rich's Personal Short Stories
+Just some of my short stories.  More to come!  Enjoy!
