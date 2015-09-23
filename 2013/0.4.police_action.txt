@@ -119,18 +119,4 @@ After a good bit of small talk, they found each other alone, both buzzed after t
 
 Their revirie was broken after a short while.  There was a crowd gathering around one wall.  Evidently one of the Investigators, called to investigate an older crime by the docks, had been shot at.  They jockeyed for position to see what was going on.
 
-----------
-
-Last part of this story:
-
-Donny pinned down.  Regular cops come in as backup, wait outside.  Donny tries to speak to them.  They ignore him.  He sneaks around back of the building, climbs atop, makes a hole in the building, puts an arm in with a camera, runs some DNA tests back, identifies a Federal fugitive.  Calls for backup from the rest of the first.  The Investigators arrive.  Cops tell them to get lost.  They ignore them.  Donny sees a the fugitive opening a crate of armed turrets.  The fugitive opens another crate with unidentified equipment, and turns one on, then grabs a spray can of something.  He walks toward Donny, and sprays something at donny, whose arm turns to rock. `The First sheild some cops with their bodies.  The rest run in, jumping through windows.  They get shot up and thrown out by booby traps.  Donny dives in, arms and legs expand to whip the folks trying to escape.
-
------------
-
-
-[maybe tom and andy watch the police action with the vp in his awesome-room]
-
-[this is a good time to discuss opencog, and use it as the model for these robots - Tom and Andy only wrote a tiny part of the algorithms, mostly glue tying other algorithms together, but it was bug-free glue]
-
-[then we'll switch to the action, the robots immediately find a warehouse that repels them - donny leading an attack on it]
-
+------
