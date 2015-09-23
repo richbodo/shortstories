@@ -1,14 +1,3 @@
-﻿[BUGBUG] desperately need a map.
-
-
-[BUGBUG] the section titles are a good idea, but they need to be relabeled to have interest as well as explanatory purpose - I wrote them for myself.  Would be nice to have a drawing for each section, but that’s harder.
-
-
-[BUGBUG] need to decide what {cencom?} <thoughts> [text] really mean and make them consistent.
-
-
-[BUGBUG] I think Google docs has weird handling of apostrophes.  I let it "fix" my apostrophes.  Now I need to take a look at each apostrophe.
-
 
 ------------
 ASSESS
