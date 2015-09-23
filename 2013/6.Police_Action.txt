@@ -1,0 +1,122 @@
+
+Tom could not believe their luck.  He looked over at Andy, and found Andy looking back.  
+
+A moment earlier, Andy was slouched in his chair, sure they had lost.  Now he had a can-you-believe-this smile on his face, but he was still slouching.
+
+For all the thoughts running through Tom's head, all he could offer Andy was a short, nervous laugh.  
+
+Tom's mind was racing through the possibilities.  Was that H91 algorithm they had grabbed legit?  It must be working wonders.  They purchased it a week ago in desperation, and had never thoroughly tested it.  
+
+How about all the corner cases they had failed to consider in organizational behaviour?  Tom recalled laughing at the implementation they had built, leaving almost everything to the reasoning engine.  
+
+Andys mouth opened to try to explain something, reconsidered, and closed.  His head turned back to his screen.
+
+Tom did the same, and stared, with Andy, in awe, at what they had done.
+
+On the screen projected in front of them, Reasoning Machine Donny871 was standing at the head of the First Humanoid Investigators, it's platoon seargent.  The platoon of 15 robots stood in front of almost 100,000 others - the other competitors in the DHS "RoboCop" competition.  The shimmerying army wrapped around and behind the White House.  Every one of the robots was magnificent in chrome, red, white, and blue, awaiting orders.  The US National Anthem played.  Flags waved.  
+
+As the simulation faded, the flags stopped waving.  The sky dimmed slightly. A light drizzle could be detected.  The 15 robots in front remained, but the 99,985 robots behind them faded into the grass of the white-house lawn.  Homeland security had comissioned only 100 of the robots.  Only 15 robots had been delivered and fully tested, to be deployed today.  
+
+Fifteen teams had been selected from 100,000.  All of the teams had been run through the same wringer.  They had won.
+
+"They're loading him.", Tom said.
+
+"We did the least...", Andy said.  Referring to the amount of coding they had done relative to the other teams they knew about.
+
+"Lines of code is a bad measure, I guess.", Tom said, scratching his chin, "We didn't even expose OpenCog connected to external clusters...we couldn't even use offboard processing."
+
+"Yeah...we were bounded...pretty severely..."
+
+"Remember what Jennifer said?  The  NSAs security algorithms would eat anything that tried to make itself smarter..."
+
+"Not only bounded...we only used half the hardware.  When they attacked H91, it healed itself."
+
+"Well, we thought it might help to have the headroom for healing."
+
+Tom said "Hard to believe."
+
+Andy looked over at Tom, "Actually, I don't believe it.  But Donny passed the tests.  ALL of them.  That's all anyone can ask for."  
+
+Andy was referring to the battery of tests that "Donny", the reasoning machine they had worked on for the last two years, had been put through.  The tests put the "mind" that Andy and Tom had cobbled together from algorithms into a simulated robot body just like the ones on the white house lawn.  Over a million scenarios had been developed by the DHS, many of them based on real investigations and actual police actions that had been recorded.  The tests included everything from a simple questioning to a school shooting to a complex and sophisticated attack on the country by dozens of terror cells.  
+
+The entire history of crime, investigation, and violent confrontation in the United States was input into the test set as well as possibly could be.  Every scenario was simulated in a virtual world made even more dangerous by constant cyber-attacks (courtesy of the NSA).
+
+Donny, in simulation, had done better than any human or machine that had ever existed.  Saved more lives, caught more criminals, solved more cases.
+
+"I'm still worried that it's not true....pinch me.", Tom said.
+
+Andy reached over to pinch Tom's arm, but his hand slowed to a stop.  His mind could no longer focus on that activity, for on the screen in front of Tom and Andy, the First Humanoid Investigators had just been called to action.  A real, live police action.  By autonomous robotic police.
+
+All fifteen of the 1st H.I. calmly walked, in unison,  off the white-house lawn.  At first, they were in formation.  Then they separated optimally to form three files that walked along a sidewalk toward the front gate.  Each row of three flashed salutes at the officer of the watch as they approached, snapping them back down as they passed.
+
+Once each robot passed the gate, it walked calmly to the street, and as each robots foot first hit the pavement of the mean streets of Washington D.C., it broke out into a run on all fours.
+
+A few autocars pulled up and offered open doors, but for whatever reason, the robots bolted by them.
+
+Quickly reaching top speed, sirens blaring lights flashing, they almost instantly dissapeared into the streets of Washington, D.C. 
+
+A second or two after the last robot vanished, only the news commentators could be heard.  
+
+A full minute later, Andy was with it enough to pinch Toms arm.  "Wake up, dickhead, the vice president just messaged us...Tom!"
+
+Tom switched back on his info-hud.  Sure enough, there were a number of messages from the office of the vice president of the united states, and a car was waiting outside for them.  All of the messages bore the icons of presidential blockchain verification.
+
+After reading them, they both hit buttons on the sides of their exochairs, rasing each of them to standing level.  They high fived.  After some laughter, a few moments of expletive-laden conversation, and a little more vigorous high fiving, they packed up their backpacks and headed out to the waiting limousine.
+
+The limo drove them to a private airport, and pulled up next to a learjet.  The doors opened directly in front of the jets folding stairs.  A smiling gentleman waved at them to come up, which they did.  
+
+The stewardess and captain served them tea, checked their identification, and got them underway.  
+
+After some surreal technical conversation, Tom realized something.  Quickly pulling out his huds, he said, "Dude.  The prize.  Check your wallet."
+
+Andy, wide-eyed, scrambled in his backpack and put his huds on as well.  "Yup.  We're rich.", he said.
+
+"A million a year to work on the investigators.  One thing you can say for the US government, they pay.", Tom said.
+
+By 5PM, they were crowded the vice presidents conference room with twenty three other competition winners from around the nation.  
+
+Three of the walls were full video walls.  One was a full-sized window to the real world.
+
+After the V.P. introduced them to his technical staff, they watched in rapt attention as professionally edited video of the manufacture and testing of the First Humanoid Investigators (the First, the video called them).  Prototypes were put through incredible combat training - they jumped from the ground to the top of two-story buildings, fought military robots with their fists and feet, failing spectacularly as often as not.  Each clip showed a newer version than the last.  None of them used a gun in any of the encounters, although they did use welders and cutters opportunistically.
+
+In the final clip, a first person view of a military base could be seen from ten thousand feet at a few hundred miles per hour.  The view changed angle as the robot taking the footage looked at the jet, and behind him, through the doorway he was standing in.  Fourteen other robots stood in the crowded jet, crouched and ready.  They were "patchy" - having been repaired and modified on a nearly daily basis.  Then the video shot forward, as the lead robot shot out of the plane, and straight down.  A heads up display was overlaid (clearly edited in later, but cool looking all the same), showing a variety of metrics, including speed, which hit 200km/hr pretty quickly.   Looking around, the other fourteen looked like giant metal darts, surging slightly ahead or behind one another.  
+
+Then the video switched to a camera looking at a plain of golden grass.  Green, shrubby bushes dotted the landscape, which met mountains in the distance.  It panned up and zoomed in, and the surging dots of the first could be seen.  The dots got bigger quickly.  They extended and arranged themselves, ten of them forming a tight circle around the other five, linking arms and legs.  
+
+Gunnar Smith, the white house CTO, commented to the silent room, "We just thought that would be fun to try."
+
+The First, getting bigger, detached from their formation, dove again, and then, mere hundreds of feet up, deployed parachutes.  They didn't seem to slow them much.  A lot of those watching unconsciously made fists or grit their teeth, awaiting the impact.  At one hundred feet, the parachutes all detached, and the First hit the field like they were fired out of a machine gun, grass and dirt shot into the air above them, creating a giant cloud.  Some of those watching looked away.
+
+The camera stayed put on the cloud, though.  And a moment later, fifteen robots appeared, walking forward out of the dust.  The casually formed up in front of the camera, two rows of seven, and one out in front, which approached the camera, saluted, and said simply, "All present."
+
+The video walls faded to black.  Whoops and hollers went up from the crowd of nerds.  It took a minute for Gunnar to calm them down.
+
+"And that's just the hardware.", Gunnar said, "The personality profiles you worked on enabled us to build confidence in the intelligence of the First.  An unprecedented amount of computing power was thrown at the problem, and the personalities you all built survived every test and attack we could throw at them. So we know they will make the right decisions."
+
+"As you know, D.C. has the worst crime rate in the nation.  Police are woefully overloaded.  So today we started the First with simple cases, things that can be handled quickly, in ideal circumstances.  I'm going to fire up the live feed.  Enjoy.  We'll have some food and drink in here shortly."
+
+The video walls came back on - but this time there were fifteen images.  D.C.s network of police drones were being utilized to take the footage.  The First Humanoid Investigators tackled petty crime across the city, working on cases that the local cops had identified for federal help .  Their speed as forensic analysts was heavily utilized.  Equipped with sensors that used Federal computer systems, they forensically analyzed blood, hair, fibre, drugs and money.  
+
+Drug dealers and pimps tended to ignore them, hoping they would go away.  But crimes in progress were not ignored.  
+
+One of the investigators arrested a man assaulting a woman.  He resisted, of course, to no avail.  The investigator tied him up with tie wraps like a hog.  An autocar came, and the investigator gently laid the pimp in back.  Video followed the car back to the police station, where it parked next to two police officers who had been standing on either side of their squad cars hood, chatting over coffee and donuts.  They scratched their heads at the sight.  They barely had a chance to crack a joke at the pimp when their transponders went off, and instructed them to book him.  They looked confused and consternated, but they took him in.
+
+Another drug dealer was pinned against a wall by an Investigator, when he refused to cooperate.  The investigator managed to ID him, issue him a ticket, confiscate the drugs that were illegal, take enough cash from him to pay the ticket, and issue him a receipt before letting him go.
+
+In the vice presidents conference room, appetizers, champagne, and beer were served, and the room came alive with conversation.
+
+Tom and Andy found the rest of the programmers they spoke with were as surprised as they were.  No one expected to win, but everyone was obviously smart and had put in a lot of late nights.  
+
+After a good bit of small talk, they found each other alone, both buzzed after their first beers.  Tom put a hand on Andys shoulder, "You know, Andy, I'm starting to believe that maybe we are pretty smart."
+
+"*And* lucky", Andy said.
+
+"That too.  But we didn't take any days off, did we?"
+
+"Now that you mention it, I guess we did always work on the weekends...and nights."
+
+"Yeah, well, those are the best times to work."
+
+Their revirie was broken after a short while.  There was a crowd gathering around one wall.  Evidently one of the Investigators, called to investigate an older crime by the docks, had been shot at.  They jockeyed for position to see what was going on.
+
+------
