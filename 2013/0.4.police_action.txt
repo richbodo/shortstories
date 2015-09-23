@@ -1,5 +1,5 @@
 
-Tom could not believe their luck.  He looked over at Andy, and found him looking back.  
+Tom could not believe their luck.  He looked over at Andy, and found Andy looking back.  
 
 A moment earlier, Andy was slouched in his chair, sure they had lost.  Now he had a can-you-believe-this smile on his face, but he was still slouching.
 
@@ -11,23 +11,23 @@ How about all the corner cases they had failed to consider in organizational beh
 
 Andys mouth opened to try to explain something, reconsidered, and closed.  His head turned back to his screen.
 
-Tom did the same, and stared, with Andy, in awe at what they had done.
+Tom did the same, and stared, with Andy, in awe, at what they had done.
 
 On the screen projected in front of them, Reasoning Machine Donny871 was standing at the head of the First Humanoid Investigators, it's platoon seargent.  The platoon of 15 robots stood in front of almost 100,000 others - the other competitors in the DHS "RoboCop" competition.  The shimmerying army wrapped around and behind the White House.  Every one of the robots was magnificent in chrome, red, white, and blue, awaiting orders.  The US National Anthem played.  Flags waved.  
 
 As the simulation faded, the flags stopped waving.  The sky dimmed slightly. A light drizzle could be detected.  The 15 robots in front remained, but the 99,985 robots behind them faded into the grass of the white-house lawn.  Homeland security had comissioned only 100 of the robots.  Only 15 robots had been delivered and fully tested, to be deployed today.  
 
-15 teams w
+Fifteen teams had been selected from 100,000.  All of the teams had been run through the same wringer.  They had won.
 
 "They're loading him.", Tom said.
 
 "We did the least...", Andy said.  Referring to the amount of coding they had done relative to the other teams they knew about.
 
-"We didn't even expose OpenCog connected to external clusters...we couldn't even use offboard processing.", Tom said.
+"Lines of code is a bad measure, I guess.", Tom said, scratching his chin, "We didn't even expose OpenCog connected to external clusters...we couldn't even use offboard processing."
 
 "Yeah...we were bounded...pretty severely..."
 
-"Could be that the NSAs security algorithms ate anything that tried to make itself smarter..."
+"Remember what Jennifer said?  The  NSAs security algorithms would eat anything that tried to make itself smarter..."
 
 "Not only bounded...we only used half the hardware.  When they attacked H91, it healed itself."
 
@@ -95,15 +95,19 @@ The video walls faded to black.  Whoops and hollers went up from the crowd of ne
 
 "As you know, D.C. has the worst crime rate in the nation.  Police are woefully overloaded.  So today we started the First with simple cases, things that can be handled quickly, in ideal circumstances.  I'm going to fire up the live feed.  Enjoy.  We'll have some food and drink in here shortly."
 
-The video walls came back on - but this time there were fifteen images.  The First Humanoid Investigators tackled petty crime across the city, working on cases that the local cops had identified for federal help .  Their speed as forensic analysts was heavily utilized.  Equipped with sensors that used Federal computer systems, they forensically analyzed blood, hair, fibre, drugs and money.  
+The video walls came back on - but this time there were fifteen images.  D.C.s network of police drones were being utilized to take the footage.  The First Humanoid Investigators tackled petty crime across the city, working on cases that the local cops had identified for federal help .  Their speed as forensic analysts was heavily utilized.  Equipped with sensors that used Federal computer systems, they forensically analyzed blood, hair, fibre, drugs and money.  
 
-Drug dealers and pimps tended to ignore them, hoping they would go away.  But crimes in progress were not ignored.  One of the investigators arrested a man assaulting a woman.  He resisted, of course, to no avail.  The investigator tied him up with tie wraps like a new hog.  Another drug dealer was pinned against a wall when he refused to cooperate.  The investigator managed to ID him, issue him a ticket, confiscate his drugs take enough cash from him to pay the ticket, and issue him a receipt before letting him go.
+Drug dealers and pimps tended to ignore them, hoping they would go away.  But crimes in progress were not ignored.  
 
-Appetizers, champagne, and beer were served, and the room came alive with conversation.
+One of the investigators arrested a man assaulting a woman.  He resisted, of course, to no avail.  The investigator tied him up with tie wraps like a hog.  An autocar came, and the investigator gently laid the pimp in back.  Video followed the car back to the police station, where it parked next to two police officers who had been standing on either side of their squad cars hood, chatting over coffee and donuts.  They scratched their heads at the sight.  They barely had a chance to crack a joke at the pimp when their transponders went off, and instructed them to book him.  They looked confused and consternated, but they took him in.
+
+Another drug dealer was pinned against a wall by an Investigator, when he refused to cooperate.  The investigator managed to ID him, issue him a ticket, confiscate the drugs that were illegal, take enough cash from him to pay the ticket, and issue him a receipt before letting him go.
+
+In the vice presidents conference room, appetizers, champagne, and beer were served, and the room came alive with conversation.
 
 Tom and Andy found the rest of the programmers they spoke with were as surprised as they were.  No one expected to win, but everyone was obviously smart and had put in a lot of late nights.  
 
-They found each other alone, buzzed after their first beer, and Tom put a hand on Andys shoulder, "You know, Andy, I'm starting to believe that maybe we're pretty smart."
+After a good bit of small talk, they found each other alone, both buzzed after their first beers.  Tom put a hand on Andys shoulder, "You know, Andy, I'm starting to believe that maybe we are pretty smart."
 
 "*And* lucky", Andy said.
 
@@ -113,13 +117,13 @@ They found each other alone, buzzed after their first beer, and Tom put a hand o
 
 "Yeah, well, those are the best times to work."
 
-Their revirie was broken after a short while.  There was a crowd gathering around one wall.  Evidently one of the robots had taken a potshot or two.  They jockeyed for position to see what was going on.
+Their revirie was broken after a short while.  There was a crowd gathering around one wall.  Evidently one of the Investigators, called to investigate an older crime by the docks, had been shot at.  They jockeyed for position to see what was going on.
 
 ----------
 
 Last part of this story:
 
-Donny pinned down.  Regular cops come in as backup.  Donny tries to speak to them.  They ignore him.  He sneaks around back of the building, climbs atop, makes a hole in the building, puts an arm in with a camera, runs some DNA tests back, identifies a Federal fugitive.  Calls for backup from the rest of the first.  The feds take it over.  The First sheild some cops with their bodies.  The rest run in, jumping through windows.  They get shot up and thrown out by booby traps.  Donny dives in, arms and legs expand to whip the folks trying to escape.
+Donny pinned down.  Regular cops come in as backup, wait outside.  Donny tries to speak to them.  They ignore him.  He sneaks around back of the building, climbs atop, makes a hole in the building, puts an arm in with a camera, runs some DNA tests back, identifies a Federal fugitive.  Calls for backup from the rest of the first.  The Investigators arrive.  Cops tell them to get lost.  They ignore them.  Donny sees a the fugitive opening a crate of armed turrets.  The fugitive opens another crate with unidentified equipment, and turns one on, then grabs a spray can of something.  He walks toward Donny, and sprays something at donny, whose arm turns to rock. `The First sheild some cops with their bodies.  The rest run in, jumping through windows.  They get shot up and thrown out by booby traps.  Donny dives in, arms and legs expand to whip the folks trying to escape.
 
 -----------
 
