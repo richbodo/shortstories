@@ -9,6 +9,6 @@ The pbworks versions are at http://richbodo.pbworks.com/w/page/53769251/Short%20
 
 Those have some drawings and formatting and are browsable, but hopefully I can do that with gh-pages soon.
 
-Copyright Rich Bodo, 2015, but I'm cool with making mods if you want to chat about it.
+Copyright Rich Bodo, 2015, but I want to explore some collaborative writing, so hit me up if you want to work on things.
 
 richbodo@gmail.com - let me know what you like/hate/want_more of.  Thanks!  
