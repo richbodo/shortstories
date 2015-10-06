@@ -5,51 +5,59 @@ A moment earlier, Andy was slouched in his chair, sure they had lost.  Now he ha
 
 For all the thoughts running through Tom's head, all he could offer Andy was a short, nervous laugh.  
 
-Tom's mind was racing through the possibilities.  Was that H91 algorithm they had grabbed legit?  It must be working wonders.  They purchased it a week ago in desperation, and had never thoroughly tested it.  
+Tom's mind was racing through the possibilities.  Was that reasoning algorithm they had purchased legit?  It must be working wonders.  They purchased it a few days before the contest in desperation, and had never thoroughly tested it.  
 
 How about all the corner cases they had failed to consider in organizational behaviour?  Tom recalled laughing at the implementation they had built, leaving almost everything to the reasoning engine.  
 
 Andys mouth opened to try to explain something, reconsidered, and closed.  His head turned back to his screen.
 
-Tom did the same, and stared, with Andy, in awe, at what they had done.
+Tom turned to his screen as well, in awe at what they had done.
 
-On the screen projected in front of them, Reasoning Machine Donny871 was standing at the head of the First Humanoid Investigators, it's platoon seargent.  The platoon of 15 robots stood in front of almost 100,000 others - the other competitors in the DHS "RoboCop" competition.  The shimmerying army wrapped around and behind the White House.  Every one of the robots was magnificent in chrome, red, white, and blue, awaiting orders.  The US National Anthem played.  Flags waved.  
+Investigator Donny871 was standing at the head of the First Humanoid Investigators, it's platoon seargent.  The platoon of 15 robots stood in front of almost 100,000 others - the other competitors in the DHS "RoboCop" competition.  The shimmering army wrapped around and behind the White House.  Every one of the robots was magnificent in chrome, red, white, and blue, awaiting orders.  The US National Anthem played.  Flags waved.  
 
-As the simulation faded, the flags stopped waving.  The sky dimmed slightly. A light drizzle could be detected.  The 15 robots in front remained, but the 99,985 robots behind them faded into the grass of the white-house lawn.  Homeland security had comissioned only 100 of the robots.  Only 15 robots had been delivered and fully tested, to be deployed today.  
+Somewhere, a video engineer brought reality back.  The flags stopped waving.  The sky dimmed slightly.  99,985 robots faded into the grass of the white-house lawn.  The fifteen robots in front remained.  A light drizzle could be detected.  
 
-Fifteen teams had been selected from 100,000.  All of the teams had been run through the same wringer.  They had won.
+Homeland security had comissioned only 100 of the robots.  Only 15 robots had been delivered and fully tested, to be deployed today.  
+
+Fifteen teams had been selected from 100,000.  All of the teams had been run through the same wringer.  
+
+They had won.
 
 "They're loading him.", Tom said.
 
-"We did the least...", Andy said.  Referring to the amount of coding they had done relative to the other teams they knew about.
+"We did the least...", Andy said (referring to the amount of coding they had done relative to the other teams they knew about).
 
-"Lines of code is a bad measure, I guess.", Tom said, scratching his chin, "We didn't even expose OpenCog connected to external clusters...we couldn't even use offboard processing."
+"Lines of code is a bad measure", Tom said, scratching his chin, "but we didn't even expose OpenCog connected to external clusters...we couldn't even use offboard processing."
 
 "Yeah...we were bounded...pretty severely..."
 
 "Remember what Jennifer said?  The  NSAs security algorithms would eat anything that tried to make itself smarter..."
 
-"Not only bounded...we only used half the hardware.  When they attacked H91, it healed itself."
+"Not only bounded...we only used half the hardware.  When they attacked H91, it healed itself.  It must have."
 
 "Well, we thought it might help to have the headroom for healing."
 
 Tom said "Hard to believe."
 
-Andy looked over at Tom, "Actually, I don't believe it.  But Donny passed the tests.  ALL of them.  That's all anyone can ask for."  
+Andy looked over at Tom, "Actually, I don't believe it.  This just can't be right.  Remember, H91 required it's own memory allocation library - we clearly broke the rules."
 
-Andy was referring to the battery of tests that "Donny", the reasoning machine they had worked on for the last two years, had been put through.  The tests put the "mind" that Andy and Tom had cobbled together from algorithms into a simulated robot body just like the ones on the white house lawn.  Over a million scenarios had been developed by the DHS, many of them based on real investigations and actual police actions that had been recorded.  The tests included everything from a simple questioning to a school shooting to a complex and sophisticated attack on the country by dozens of terror cells.  
+"But we disclosed that.  They audited the code...Donny passed the tests.  ALL of them.  That's all anyone can ask for.", Tom said.
+
+Tom was referring to the battery of tests that "Donny", the reasoning machine they had worked on for the last two years, had been put through.  The tests put the "mind" that Andy and Tom had cobbled together from algorithms into a simulated robot body just like the ones on the white house lawn.  Over a million scenarios had been developed by the DHS, many of them based on real investigations and actual police actions that had been recorded.  The tests included everything from a simple questioning to a school shooting to a complex and sophisticated attack on the country by dozens of terror cells.  
 
 The entire history of crime, investigation, and violent confrontation in the United States was input into the test set as well as possibly could be.  Every scenario was simulated in a virtual world made even more dangerous by constant cyber-attacks (courtesy of the NSA).
 
 Donny, in simulation, had done better than any human or machine that had ever existed.  Saved more lives, caught more criminals, solved more cases.
 
-"I'm still worried that it's not true....pinch me.", Tom said.
+"Yeah.  Wow.  I guess...I wasn't sure that getting things done counted for anything anymore.", Andy said, studying a spot on the floor.
+
+"Has to be.", Tom said with a smile.  But the smile was short lived.  Tom and Andy had been around too long to have any real faith in the ability of the government to manage.  "I'm still worried that it's not true....pinch me.", Tom said.
 
 Andy reached over to pinch Tom's arm, but his hand slowed to a stop.  His mind could no longer focus on that activity, for on the screen in front of Tom and Andy, the First Humanoid Investigators had just been called to action.  A real, live police action.  By autonomous robotic police.
 
 All fifteen of the 1st H.I. calmly walked, in unison,  off the white-house lawn.  At first, they were in formation.  Then they separated optimally to form three files that walked along a sidewalk toward the front gate.  Each row of three flashed salutes at the officer of the watch as they approached, snapping them back down as they passed.
 
-Once each robot passed the gate, it walked calmly to the street, and as each robots foot first hit the pavement of the mean streets of Washington D.C., it broke out into a run on all fours.
+Once each robot passed the gate, it walked calmly to the street.  As each robots foot hit the mean streets of Washington D.C., it broke out into a run on all fours.
 
 A few autocars pulled up and offered open doors, but for whatever reason, the robots bolted by them.
 
@@ -61,15 +69,15 @@ A full minute later, Andy was with it enough to pinch Toms arm.  "Wake up, dickh
 
 Tom switched back on his info-hud.  Sure enough, there were a number of messages from the office of the vice president of the united states, and a car was waiting outside for them.  All of the messages bore the icons of presidential blockchain verification.
 
-After reading them, they both hit buttons on the sides of their exochairs, rasing each of them to standing level.  They high fived.  After some laughter, a few moments of expletive-laden conversation, and a little more vigorous high fiving, they packed up their backpacks and headed out to the waiting limousine.
+After reading them, they both hit buttons on the sides of their exochairs, rasing each of them to standing level.  They high fived.  Afer a few moments of laughter-and-expletive-laden conversation, and a couple more vigorous high fives, they packed up their backpacks and headed out to the waiting limousine.
 
-The limo drove them to a private airport, and pulled up next to a learjet.  The doors opened directly in front of the jets folding stairs.  A smiling gentleman waved at them to come up, which they did.  
+The limo drove them to a private airport, and pulled up next to a learjet.  The limo doors opened directly in front of the jets folding stairs.  A smiling gentleman waved at them to come up, which they did.  
 
 The stewardess and captain served them tea, checked their identification, and got them underway.  
 
-After some surreal technical conversation, Tom realized something.  Quickly pulling out his huds, he said, "Dude.  The prize.  Check your wallet."
+After some surreal technical conversation, Tom realized something.  Quickly pulling out his huds, he said, "Dude.  The prize.  Check your credit."
 
-Andy, wide-eyed, scrambled in his backpack and put his huds on as well.  "Yup.  We're rich.", he said.
+Andy, wide-eyed, scrambled in his backpack and put his huds on as well.  [there should be credit on the blockchain for them] "Yup.  We're rich.", he said.
 
 "A million a year to work on the investigators.  One thing you can say for the US government, they pay.", Tom said.
 
@@ -77,7 +85,9 @@ By 5PM, they were crowded the vice presidents conference room with twenty three 
 
 Three of the walls were full video walls.  One was a full-sized window to the real world.
 
-After the V.P. introduced them to his technical staff, they watched in rapt attention as professionally edited video of the manufacture and testing of the First Humanoid Investigators (the First, the video called them).  Prototypes were put through incredible combat training - they jumped from the ground to the top of two-story buildings, fought military robots with their fists and feet, failing spectacularly as often as not.  Each clip showed a newer version than the last.  None of them used a gun in any of the encounters, although they did use welders and cutters opportunistically.
+After the V.P. introduced them to his technical staff, they watched in rapt attention they were shown professionally edited video of the manufacture and testing of the First Humanoid Investigators (the First, the video called them).  
+
+Prototypes were put through incredible combat training - they jumped from the ground to the top of two-story buildings, fought military robots with their fists and feet, failing spectacularly as often as not.  Each clip showed a newer version than the last.  None of them used a gun in any of the encounters, although they did use welders and cutters opportunistically.
 
 In the final clip, a first person view of a military base could be seen from ten thousand feet at a few hundred miles per hour.  The view changed angle as the robot taking the footage looked at the jet, and behind him, through the doorway he was standing in.  Fourteen other robots stood in the crowded jet, crouched and ready.  They were "patchy" - having been repaired and modified on a nearly daily basis.  Then the video shot forward, as the lead robot shot out of the plane, and straight down.  A heads up display was overlaid (clearly edited in later, but cool looking all the same), showing a variety of metrics, including speed, which hit 200km/hr pretty quickly.   Looking around, the other fourteen looked like giant metal darts, surging slightly ahead or behind one another.  
 
@@ -117,6 +127,8 @@ After a good bit of small talk, they found each other alone, both buzzed after t
 
 "Yeah, well, those are the best times to work."
 
-Their revirie was broken after a short while.  There was a crowd gathering around one wall.  Evidently one of the Investigators, called to investigate an older crime by the docks, had been shot at.  They jockeyed for position to see what was going on.
+Their revirie was broken after a short while.  There was a crowd gathering around one wall.  
+
+[Evidently one of the Investigators, called to investigate an older crime by the docks, had been shot at.  They jockeyed for position to see what was going on. - perhaps should show instead of tell this]
 
 ------
