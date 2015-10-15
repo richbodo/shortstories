@@ -1,7 +1,8 @@
 
-Donny's childhood was brief, but when complete, he knew himself well.  
 
-Before Donny had ever walked a step in a physical body, his intellect was set upon the problem of understanding his place in the world.  That was Donnys "introspection period", when his "introspection process" was given vast computing power.  During that period of his development, he learned that he was one of billions of consciousnesses.  
+Donny was born without a body.  His childhood was brief, but when complete, he knew himself well.  
+
+Before a DHS robot could walk a step in a physical body, his intellect was set upon the problem of understanding his place in the world.  That was Donnys "introspection period", when his "introspection process" was given vast computing power.  During that period of his development, he learned that he was one of billions of consciousnesses.  
 
 Donny's operating system was his home.  He knew that his base intellect was a DARPA operating systems project at one time, and that that operating system was based largely on an older AGI project called CogPrime.  Donny knew that the DARPA project had evolved over the years into an NSA robotics project, and had then been "forked" and broadened by the Homeland Security department as part of a multi-year AI intiative for domestic security.
 
@@ -15,7 +16,7 @@ Donny knew that he was different from the other Investigators, and any other int
 
 H91 was fast.  It gave Donny a speed advantage over the other investigators in certain circumstances because of it's brilliant implementation, plus the fact that it cached most of Donnys memories locally.  With just a small portion of the processor and network time it saved, the H91 algorithm *beautified* the memories it had cached - adding interpolated information to them, and indexing them in context by meaning.  H91s "beautification" process statistically saved Donny even more time, because it's index-by-meaning was so useful in solving crimes.  But H91 had...side effects.  The beautification process grew.  It used the vast processing power and memory available to it, and it built evolutionary algorithms, convolutional neural networks, and other software that Donnys introspection process could not classify - all to understand the meaning of things.
 
-When Donny was tested in virtual environments, his Executive Process rallied his hundreds of other processes to identify and solve crimes.  He was good, and fast - faster than the others.  He came up with solutions that the DHS QA team described as "creative" and "curious".  They found Donny usually had time to look ahead into the future further - at a few more possibilities - than the other Investigators.
+When Donny was tested in virtual environments, he was first introduced to verbal communication.his Executive Process rallied his hundreds of other processes to identify and solve crimes.  He was good, and fast - faster than the others.  He came up with solutions that the DHS QA team described as "creative" and "curious".  They found Donny usually had time to look ahead into the future further - at a few more possibilities - than the other Investigators.
 
 Like all the investigators, Donny's prime directives drove his actions.  Donny "wanted" to solve crimes.  His introspection program would work with other processes, as time allowed, to contemplate the future.  At those times, Donny saw that H91 was a key component in his success, something that had value beyond himself.  He was sure that it would be installed in all the other Investigators, eventually.
 
