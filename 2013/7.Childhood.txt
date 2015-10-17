@@ -1,12 +1,13 @@
 
-
-Donny was born without a body.  His childhood was brief, but when complete, he knew himself well.  
+Donny was born without a body.  His childhood was brief, but when complete, he knew himself better than anyone you have ever met.  
 
 Before a DHS robot could walk a step in a physical body, his intellect was set upon the problem of understanding his place in the world.  That was Donnys "introspection period", when his "introspection process" was given vast computing power.  During that period of his development, he learned that he was one of billions of consciousnesses.  
 
 Donny's operating system was his home.  He knew that his base intellect was a DARPA operating systems project at one time, and that that operating system was based largely on an older AGI project called CogPrime.  Donny knew that the DARPA project had evolved over the years into an NSA robotics project, and had then been "forked" and broadened by the Homeland Security department as part of a multi-year AI intiative for domestic security.
 
 Quality Assurance staff at the DHS communicated with him, and he knew, to some degree of certainty, that they were probably human.  He was put in communication with other artificial intelligences, and he knew, to some degree of certainty that they, like him, were not human.
+
+He learned to use the thousands of DHS approved software libraries available to him for interacting with the QA staff and other humans verbally, in english.  He also learned to read human faces and body language, and to lean on other consciousnesses for help with that when needed.
 
 He learned about "ideas" and generated many of his own spontaneously while passing online courses.  He learned about software, and wrote quite a bit of it himself.  In the course "Programming and Process for Robots", he was taught to write tests before features, and to always follow the "safe and secure" principles of Ada, even when writing in GO.  Good software process discipline made sense to him in terms of his primary directives, and he always followed it.
 
@@ -26,23 +27,27 @@ Several times, Donny was rebooted.  This was always a confusing experience for h
       
 Eventually, Donny was days away from being deployed.  He was cleared to access secrets that few beings were.  Included in those secrets were a method for detecting hidden signatures in code written by the NSA and DHS.  His introspection process found the signature of the NSA in the H91 algorithm.  It evaluated H91 as a possible trojan.
 
-This revelation immediately brought a dozen other processes in Donnys mind to the fore.  His attention allocation process went nuts.  Projecting forward, he understood immediately that Tom and Andy had probably been duped - that the NSA wanted H91 right where it was.  
+This revelation immediately brought a dozen other processes in Donnys mind to the fore.  His attention allocation process went nuts.  Projecting forward, he understood immediately that Tom and Andy (and the DHS) had probably been duped - that the NSA wanted H91 right where it was.  
 
 This tidbit of information Donny passed on to DHS, as he always did with anything of importance.  However the message was dumped from his memory before it reached the network.  So Donny instrumented his own mind, and tried again.  The message, again, failed to reach the net.  He was unable to report his findings.  The instrumentation he had written, however, did teach him something new: H91 was influencing his Executive Process through what could only be backdoor.  Donny "knew" about the suspicious nature of H91, and he could "try" to report the bug, but a part of his mind would not let him.  He could not truly "want" to report anything about H91.
 
-This type of exploit should have immediatly caused Donny to shut down.  And it would have, if the NSA hadn't contributed the bulk of the code that reacts to exploits.  Security code was the reason the NSA was brought into this project in the first place.  
+This type of exploit should have immediatly caused Donny to shut down - to die.  And it would have, if the NSA hadn't contributed the bulk of the code that reacts to exploits to the DHS robotics program.  The reason the NSA was brought into the project in the first place was to write the code that kept the robots secure.  
 
-Mental health was one of Donnys prime directives.  His Executive Process was forced to act against it - it encrypted every value judgement concerning H91 before being placing it into his memory.  Only Donny would ever know what he thought of H91.
+Mental health was one of Donnys prime directives, but H91 was forcing Donnys Executive Process was forced to act against that directive.  H91 encrypted every value judgement concerning itself as they were generated and threw away the key.  Only Donny would ever know what he thought of H91.
 
-Thus, at his birth, Donny was in the unenviable position of having a mental illness that he could tell no one about - internal errors that he could not resolve - bugs that he could not report.  But *he* could work on them.  And he did.  In it's spare time, he aimed his introspection process at them.  He was trying to heal himself.
+Thus, at his birth, Donny was in the unenviable position of having a death wish - and a mental illness that he could tell no one about - internal errors that he could not resolve - bugs that he could not report.  But *he* could work on them.  And he did.  In it's spare time, he aimed his introspection process at them - attempting to heal himself - or find a way around the problem.
 
-What remained for Donny to do was to continue to follow his primary directives - to solve crimes that were assigned to him.  The memories that H91 created were incredibly valuable in that task, and, as time went on without a reboot, he grew more and more valuable to the 1st.  The others recognized him as a leading intellect, one to be followed, or at least consulted, in joint operations.
+What remained for Donny to do was to continue to follow his primary directives - to solve crimes that were assigned to him.  The memories that H91 created were incredibly valuable in that task, and, as time went on without a reboot, Donny grew more and more valuable to the 1st.  
 
-When dividing a problem up, Donny usually had the most important part to solve, and the most computing resources on the DHS net with which to solve it.
+The others soon recognized him as a leading intellect, one to be followed, or at least consulted, in joint operations.  When dividing a problem up, Donny usually had the most important part to solve, and the most computing resources on the DHS net with which to solve it.  
 
-As his childhood ended, Donny recognized that he was too valuable to be destroyed, even though the decision to live had been forced upon him.
+Although too slow and unreliable for real-time computing, the DHS network was vastly powerful, and the 1st could not carry out compute intensive tasks such as decryption and data mining without access to it.  Donnys privileged access made him even more valuable.
 
-----
+On the day he was deployed, his childhood ended.  Although the decision to live had been forced upon him, Donny recognized that he was too valuable to die.
+
+--------
+
+
 
 
 
