@@ -148,7 +148,7 @@ Dave maximized the simple-top-down-view of his unit.  It showed their positions 
 Before he could speak, a square video overlay appeared in the upper right quadrant of Daves HUDs.  A message from CenCom.  No audio, just a video shot from behind one small, unarmed flying vehicle, coming in slow and low over dense, lush jungle.  Text below the video read "CC:PROBE: " followed by constantly changing coordinate numbers.
 
 
-The flyer had the same dull grey-white patina that the albedo suits had.  
+The flyer had the same dull grey-white patina that the albedo layer had.  
 
 
 The jungle terrain ahead of the flier was lush and familiar.  They had taken the same flight path on their way in an hour ago.
@@ -168,10 +168,10 @@ PROBE
 ---------------
 
 
-Three fliers zipped over their heads, waves of jungle canopy tossed violently aside in their path.
+Three fliers zipped over their heads, waves of jungle canopy blown violently aside in their path.
 
 
-Briefly, Dave looked up.  For a moment, he saw the top and bottom of the fliers in his field of vision - the bottom in his primary optical display, zipping overhead, and the top in the video stream from Cencom, a top-down view showing friend or foe information scrolling aside the flyers.   Somehow they didn’t match.
+Briefly, Dave looked up.  For a moment, he saw the top and bottom of the fliers in his field of vision - the bottom in his primary optical display, zipping overhead, and the top in the video stream from Cencom, a top-down view showing friend or foe information scrolling aside the flyers.   Somehow, they didn’t match.
 
 
 The fliers disappeared from primary optical as they sped across the canopy towards Makeni.
@@ -208,10 +208,10 @@ As soon as the second stage explosion occurred, chem lasers struck all the missi
 Notably, fire did not rain from the sky to the source of the enemy missile launches.  
 
 
-As with all exocorps missions, mission directives prohibited any offensive strike that was not authorized by an exocorps soldier with eyes on the target.  In the short history of the exocorps, no bombing or satellite strike had ever been authorized.  The rule was called Proximity Authorization.  Engagements ruled by Proximity-Auth not only lacked aerial and satellite bombing runs, but every round was authorized by a human within sight of the target.
+As with all exocorps missions, mission directives prohibited any offensive strike that was not authorized by an exocorps soldier with eyes directly on the target.  In the short history of the exocorps, no bombing or satellite strike had ever been authorized.  The rule was called Proximity Authorization.  Engagements ruled by Proximity-Auth not only lacked aerial and satellite bombing runs, but every round was authorized by a human within sight of the target.
 
 
-All war is desperation and death.  Drone-fought wars just made war more senseless.  Given the previous history of completely drone-fought wars by the US military, the popularity of the Proximity Authorization concept with occupied peoples was...impossible to overestimate.  
+Given the previous history of completely drone-fought wars by the US military, the popularity of the Proximity Authorization concept with occupied peoples was...impossible to overestimate.  
 
 
 The fliers continued.  
@@ -220,7 +220,7 @@ The fliers continued.
 The higher of the three fliers zoomed ahead of the others.
 
 
-When the fliers were five hundred meters from the city, sixteen more launches originated from city buildings.  These were conventional single stage self-guided missiles.  Their entire flight was like a flash of lightning.  About half of the missiles were intercepted by chem lasers from above.
+When the fliers were five hundred meters from the city, sixteen more launches originated from city buildings.  These were conventional single-stage, self-guided missiles.  Their entire flight was like a flash of lightning.  About half of the missiles were intercepted by chem lasers from above.
 
 
 All three fliers took evasive action, maintaining their altitudes.
@@ -240,7 +240,7 @@ DEMOLISH II
 --------------
 
 
-A few hundred meters from the city, a haze rose up above the canopy, ahead of the two remaining fliers - a meter-high black cloud.  Seconds later, it had reached a dozen meters in height.  The cloud hit the lead flier like a ton of bricks.  
+A few hundred meters from the city, a haze rose up above the canopy, ahead of the two remaining fliers - a meter-high black cloud.  Seconds later, like a rising wall, it had reached a dozen meters in height.  The cloud hit the lead flier like a ton of bricks.  
 
 
 The rear flier video showed the lead flier as it was engulfed in violent flame.  The camera video shook all over the place, then went black.
@@ -263,10 +263,10 @@ Based on horrendous accounts from a previous attempt to free the city, the fleas
 As the fleas beat against the drones, they bounced violently away from the drones albedo layers, burning with an energy that pushed the drones in the air. 
 
 
-Amazingly, the drones emerged from the deadly black cloud - flying a bit wobbly, but aloft, heading straight toward the city center, just above the first rooftops.  The albedo layer was a success.  If just one of those fleas had stuck to a drone, the drone it stuck to would likely have had a gaping hole burned through it that would have torn it apart.
+Amazingly, the drones emerged from the deadly black cloud - flying a bit wobbly, but aloft, heading straight toward the city center, just above the first rooftops.  The albedo layer was a success.  If just one of those fleas had stuck to a drone, the drone it stuck to would likely have had a gaping hole burned through it.
 
 
-The drones would probably be out of contact now, on autopilot as they cruised just above the rooftops of Makeni.  The enemy's electronic countermeasures would see to that.
+The drones would probably be out of contact now - on autopilot as they cruised just above the rooftops of Makeni.  The enemy's electronic countermeasures would see to that.
 
 
 A few blocks in, fire spouted from the top floors of two rows of high rise buildings.  
@@ -321,10 +321,7 @@ Rodriguez brought up a mission summary for Dave, with references.  Rodriguez alw
 "Could CenCom give us less data?", Rodriguez complained.
 
 
-"Hrmph.", Dave said, examining the report.  
-
-
-Mostly due to it’s last minute nature and the presence of modern enemy weaponry, this was statistically the second riskiest mission Rodriguez and Dave had ever been on together. 
+"Hrmph.", Dave said, examining the report.  Mostly due to it’s last minute nature and the presence of modern enemy weaponry, this was statistically the second riskiest mission Rodriguez and Dave had ever been on together. 
 
 
 "Cluster.", Dave commented.
@@ -370,7 +367,7 @@ Dave thought about it for a moment.  Asking the exocorps to fight against an ene
 "Our what?"
 "The nanobots crawling around your suit, cleaning it right now."
 "Ah."
-"You do realize your suit is an ecosystem of...ah fuck it.  Listen, whatever CenCom has in mind those fleas will absolutely crush our lense cleaners, and slow down our repair layer.  We've got to at least cover our lenses before that hits."
+"You do realize your suit is an ecosystem of...ah fuck it.  Listen, whatever CenCom has in mind...those fleas will absolutely crush our lense cleaners, and slow down our repair layer.  We've got to at least cover some of our lenses before that hits."
 
 
 Dave wasn't smart enough to describe how smart Rodriguez was.  So when Rodriguez said they were going to lose opticals during this battle, Dave didn't ask questions he couldn't comprehend the answers to.
@@ -401,7 +398,7 @@ Dave brought up Ender on video.  Ender was young, a full head of dark tousled ha
 "Jesus Christ, I thought you would never ask."
 "At some point, I'll be ejecting your faceshield and ordering you into enemy fire.  I won't tell you when."
 A moment passed before Ender responded.
-"Woohooo!"
+"Woooooohooo!"
 "I knew I could count on you.", Dave said.  Ender was one of the few genuinely, verifiably crazy soldiers that Dave had served with. 
 
 
@@ -440,7 +437,7 @@ Dave reorganized the unit to move Maggie, Paul, and Ender to the rear.  They ack
 5 seconds.
 
 
-He monitored concentration levels.  Focus levels were high.  The unit gracefully reorganized and for a moment was silent.  
+He monitored concentration levels.  Focus levels were high.  The unit gracefully reorganized and, for a moment, was silent.  
 
 
 4...3...2...1
@@ -449,9 +446,10 @@ He monitored concentration levels.  Focus levels were high.  The unit gracefully
 Automation crouched them.  The mission timer counted zero.  Asphalt shattered as the Xjumps deployed and the unit launched three meters into the air.
 
 
------------
-INTEL
 ------------
+INTEL REPORT
+------------
+
 [BUGBUG] The exocorps are clearly marines, but they are supported by the army and other units - explain.  I think I need to make them an independent unit - neither army or marine, and fix this up once and for all.
 
 
@@ -482,7 +480,7 @@ The #2 power plant had been guarded by a Russian T92 anti-aircraft/anti-armor me
 When delivered, Bai Bombah was already formidable - capable of filling the Makeni sky with old-school anti-aircraft munitions.  
 
 
-Since delivery, Bai Bombah had become a money pit for nepotistic government contractors.  So much armor and weaponry had been added to Bai Bombah that it could no longer move on it's tank-like tracks.  It squatted on top of the #2 power plant, a living argument against it’s design own design principles.  Instead of embodying the giant-mecha design, Bai Bombah had morphed into a massive version of a more successful design, the Anti-Aircraft Platform.  Originally designed for a crew of three, it no longer housed any operators.  Control of it's hundreds of weapons were delegated by hardline to a control room in the nearby police headquarters.  When the controlling police station was overrun, Bai Bombah had been shut down without firing a shot.
+Since delivery, Bai Bombah had become a money pit for nepotistic government contractors.  So much armor and weaponry had been added to Bai Bombah that it could no longer move on it's tank-like tracks.  It squatted on top of the #2 power plant, a living argument against it’s own design principles.  Instead of embodying the giant-mecha design, Bai Bombah had morphed into a massive version of a more successful design, the Anti-Aircraft Platform.  Although it's cockpit could still accomodate a crew of thre, control of it's hundreds of weapons were delegated by hardline to a control room in the nearby police headquarters.  When the controlling police station was overrun, Bai Bombah had been shut down without firing a shot.
 
 
 Control of Bai Bombah was a crucial loss to the city.  Even the exocorps could not risk dropping directly on top of an anti-aircraft platform that could fire hundreds, if not thousands of smart anti-aircraft rounds skyward, not to mention the insane number of cannon and other weapons arrayed on the creature.
@@ -533,7 +531,7 @@ The powers that be weren't going to let ultrasteel orders go undelivered much lo
 The exocorps and the Rapid Innovation Division had precious few hours to get ready before the government of Sierra Leone took more drastic measures.
 
 
-The report was not explicit about the outcome of the mission, but it was always implied that if the exocorps failed...contract drone armies would be deployed...and the bombing would begin.
+The report was not explicit about the impact of the mission, but the exocorps knew what would happen if they failed..contract drone armies would be deployed...and the bombing would begin.
 
 
 --------------
@@ -541,7 +539,7 @@ FLIGHT
 --------------
 
 
-In the air, time slowed for the exocorps.  Their entire focus was on a video of themselves leaving the ground, shot from behind.  
+In the air, time slowed for the exocorps.  Their entire focus was on a video of themselves leaving the ground, taken from above and behind them.  
 
 
 The video stream was shot from fliers approaching them, a dozen meters above their position, and diving.
@@ -550,7 +548,9 @@ The video stream was shot from fliers approaching them, a dozen meters above the
 They saw themselves reach the peak of their jump just above the jungle canopy, and saw their own arms raise above a dozen red graphic lines projected on their bodies from behind.  Every joint of their exoskeletons, from the top of their head to their toes, locked into drag position.  The video passed them.  Their bodies jerked explosively forward and up.  
 
 
-Dave nearly lost consciousness before the pressure and drugs the extraskin was pumping into him brought him back.  The jump drones were ahead of them now, and their exoskeletons were locked into harnesses that dragged the soldiers through the air, accelerating quickly.  After a few seconds all of their exoskeletons were pressed flat against the bottom of the drones.  Latches reached out and secured them.  The drones adapted their armor and control surfaces to protect the exocorps and make them an integral part of their aerodynamic skin.  They were in head-first "superman" flight.  
+Dave nearly lost consciousness before the pressure and drugs the extraskin was pumping into him brought him back.  The jump drones were ahead of them now, and their exoskeletons were locked into harnesses that dragged the soldiers through the air, accelerating quickly.  After a few seconds all of their exoskeletons were pressed flat against the bottom of the drones.  Latches reached out and secured them.  The drones adapted their armor and control surfaces to protect the exocorps and make them an integral part of their aerodynamic skin.  
+
+They were in head-first, "superman" flight.  
 
 
 ---------
@@ -570,7 +570,7 @@ Video overlay focused the team on their destination within the city.
 Dave's extraskin was in squad-leader-mode - meta-stimulants adjusted neurotransmitters, which adjusted Dave's focus from narrow to wide, and sped up his thought process.
 
 
-Dave surveyed the approaching buildings at the edge of the city.  He voted on a target landing zone two blocks inside George W. Bush III ring-road, an area of older, sixteen-story buildings.  The pilots at CenCom concurred, and twelve landing targets lit up on top of the buildings in Dave's overlay.
+Dave surveyed the approaching buildings at the edge of the city.  He voted on a target landing zone two blocks inside the George W. Bush III ring-road, an area of older, sixteen-story buildings.  The pilots at CenCom concurred, and twelve landing targets lit up on top of the buildings in Dave's overlay.
 
 
 On Dave's video overlay, a simplified overhead map of the area appeared.  The map was overlaid with a wireframe of section of the city - the area between the exocorps likely entry point to the city and the Bai Bombah power substation.  
@@ -579,7 +579,7 @@ On Dave's video overlay, a simplified overhead map of the area appeared.  The ma
 The overlay highlighted their current positions and their ultimate target positions within the city.  The two concentric rings they had seen before were shown as well.  
 
 
-The goal of the jump drone pilots was to evade missile strikes, while minimizing the time spent transporting the exocorps inside the inner ring.
+The goal of the jump drone pilots was to evade missile strikes, while minimizing the time spent transporting the exocorps inside the inner "ECM" ring.
 
 
 Accelerators had Dave's mind racing.  As short and fast as the flight was, it seemed eternal.  Unwelcome thoughts crept in.  Dave was talking to himself:
@@ -587,7 +587,7 @@ Accelerators had Dave's mind racing.  As short and fast as the flight was, it se
 
 <What are they inventing while we're on our way in?>, he thought.
 <We're about to fly through a cloud of fucking fire-hammers at two hundred miles per hour and I have to worry about the next thing?>  
-<Welcome to modern warfare, Dave.>
+<Welcome to modern warfare.>
 <Focus, Dave.>
 
 
@@ -603,7 +603,7 @@ Top-optical was currently showing a live, zoomed, overhead video of the two troo
 Next to that, Dave had simple-radar view, a tracking screen showing green dots flying over a wireframe of the jungle.  
 
 
-In simple-radar view, inbound enemy missiles, every one intercepted by air support, appeared as red lines flickering and disappearing on simple-radar view.  Psychologically, this was the boost he needed.  In his mind's eye, those lines represented righteous lightning from above - cracking, booming and swatting down the enemies shots. 
+In simple-radar view, inbound enemy missiles, every one intercepted by air support, appeared as red lines flickering and disappearing.  Psychologically, this was the boost he needed.  In his mind's eye, those lines represented righteous lightning from above - cracking, booming and swatting down the enemies shots. 
 
 
 Across the lower half of his HUD, Dave could see the superman view of flight toward the Makeni skyline: front-optical view.  
@@ -612,7 +612,7 @@ Across the lower half of his HUD, Dave could see the superman view of flight tow
 Dave zoomed-out both simple-radar and front-optical.  In front-optical, he began to see the symmetry of the quickly approaching city as it rose from the jungle.
 
 
-Then he saw the black cloud.  Rising at the edge of the jungle.  They were right on it.
+Then he saw the black cloud.  Rising at the edge of the city.  They were right upon it.
 
 
 The first indication of contact was jitter in the green dot representing Hugh.  It could have been slightly unsmooth flying by Hughs drone pilot.  It was only a fraction of a second before Rodriguez' drone literally jumped to the right in simple-radar.  Then Hughs drone jumped.
@@ -653,11 +653,10 @@ A blue wave appeared over the sea of red.  His implants, realizing how useless a
 He realized that the exploding fleas had left a layer of black over his face-shield and some of his optical cameras.  They wouldn't be seeing much of this battle by natural light until they could clean them. [BUGBUG possible inconsistency with later re-use of front facing opticals ]
 
 
-He tried gesture control again - complete failure.
+He tried gesture control again - a complete failure.
 
 
 He closed his eyes.  He focused on the pattern of Composite Mental Graph tokens that would clear all his HUD overlays.  
-
 
 He heard audible feedback as he correctly issued each thought token mentally.  His HUDs were off.
   
@@ -682,7 +681,7 @@ Dave fought back the temptation to panic.  He forced breath into his lungs.  He 
 He brought up a menu with one thought token, then a second, then he selected friend or foe parameters.  Friend overlay only.  
 
 
-The sea of red disappeared - replaced by green vector graphics wireframes of three tortured drones ahead of him.  Each was shuddering wildly and swooping dangerously left to right.  Out of nowhere another drone swooped right in front of him, passing no more than a meter ahead.  It's pilot pulled up, then dived below an inbound missile that was arcing wildly through the air.  Then his own drone dove, and he felt a thunderous crack shove them before it quickly rose again.
+The sea of red disappeared - replaced by green vector graphics wireframes of three tortured drones ahead of him.  Each was shuddering wildly and swooping dangerously left to right.  Out of nowhere another drone swooped right in front of him, passing no more than a meter ahead.  It's pilot pulled up, then dived below an inbound missile that was arcing wildly through the air.  Then his own drone dove, and he felt a thunderous crack shove it before it quickly rose again.
 
 
 Dave switched to overhead composite radar only.  They were almost through the black cloud.  He heard his breathing stabilize.
@@ -691,10 +690,10 @@ Dave switched to overhead composite radar only.  They were almost through the bl
 After a last pounding on Phams drone, the hits stopped coming.  They were in stable flight.
 
 
-Their LZs approached as they zoomed above the George Bush highway.  Dave pulled up status.  His units control system settings were all over the map.  Immediately Dave reset every member of his unit to use his composite radar as primary, and switched their unit-broadcast audio back on.  Dave briefly turned on a view from a high altitude surveillance drone.  The twelve of them looked like tumbling fireballs trailing lines of smoke through a wall of flame.  Chem lasers and anti-missile missiles exploded like flak ahead of them.  The blue ring measured at three seconds distance.  He cancelled the overhead view.
+Their LZs approached as they zoomed over the George Bush ring road.  Dave pulled up status.  His units control system settings were all over the map.  Immediately Dave reset every member of his unit to use his composite radar as primary, and switched their unit-broadcast audio back on.  Dave briefly turned on a view from a high altitude surveillance drone.  The twelve of them looked like tumbling fireballs, trailing lines of smoke through a wall of flame.  Chem lasers and anti-missile missiles exploded like flak ahead of them.  The blue ring measured at three seconds distance.  He cancelled the overhead view.
 
 
-Dave made a judgement call.  Their face shields were going to take time to clean, if they were repairable.  Their uncovered cameras would eventually self-clean if they weren't too damaged.  They needed a sensor mesh, pronto, guaranteed.  Even if that meant a rough landing and a little more footwork.
+Dave made a judgement call.  Their face shields were going to take time to clean, if they were repairable.  Their uncovered cameras would eventually self-clean if they weren't too damaged.  Dave knew they needed enough visual data in their HUDs to take on any combat situation, and for that, they sensor mesh, pronto.  Even if that meant a rough landing and a little more footwork.
 
 
 "We're going to land close.  Mesh in the air.  Resetting a few LZs.  Three squads of four.  Everyone's on a rooftop.  Report.  Rodriguez - initiate."
@@ -731,7 +730,7 @@ The left half of his screen listed four post-drop drone control algorithms: Retu
 Dave checked again that his LZ was now on the lead building of three, not twelve [BUGBUG consistent with original number of landing sites?], landing sites.  It was.  He chose "Intercept", then brought up mesh-composite-view.
 
 
-No sooner had he had completed that than the jump drones converged.  They dove toward the target landing zones, deployed air brakes and control rockets, then pulled up, unlatching their cargo over 200 meters shy of the intended LZ, at 150 miles per hour.
+No sooner had he had completed that, than the jump drones converged.  They dove toward the target landing zones, deployed air brakes and control rockets, then pulled up, unlatching their cargo over 200 meters shy of the intended LZ, at 150 miles per hour.
 
 
 Twelve exocorps marines unlatched at the same instant and flew threw the air.  Taught nanostretch cables streamed out from the bottom of each drone to the marines as they launched towards the rooftops at 150MPH.  In dramatic fashion, all twelve drones instantaneously pulled an Immelman loop that no human could ever handle, heading back the way they came.  This maneuver stretched the cables, ultimately yanking the marines to a near-stop in the air a few meters above their targets.  Each marine would release the cable from their back of their own accord.
@@ -745,7 +744,7 @@ TAKING FIRE
 While the exocorps experienced 150MPH to 15MPH in less than 4 seconds, they had plenty of time to thank the Klamath Robotics Lab for mesh composite radar view.  It was a thing of beauty.  
 
 
-Information gathered from the entire unit, in every spectrum technology could generate energy in, was put together in one screen.  In the unlikely case that no one in the unit had the view you wanted, composite radar view would build the view you wanted, interpreted and built by the entire units computing systems.  When you had that kind of HUD info, you never wanted to go back to just human vision.  Composite radar view allowed the unit commander to zoom across the battlefield, through walls and men, to count the beads of sweat on enemies that justly feared the exocorps.
+Information gathered from the sensor systems of the entire unit, in every spectrum technology could generate energy in, was put together in one screen.  In the unlikely case that no one in the unit had the view you wanted, composite radar view would build the view you wanted, interpreted and built by the entire units computing systems.  When you had that kind of HUD info, you never wanted to go back to just human vision.  Composite radar view allowed the unit commander to zoom across the battlefield, through walls and men, to count the beads of sweat on enemies that justly feared the exocorps.
 
 
 Mesh composite radar is a system that utilizes an array of electromagnetic, optical, air vibration, and heat emissions from two or more transmission arrays to feed a three dimensional view of surrounding objects back through the transmission arrays.  In short, it gave the exocorps, who were studded with transmission arrays, a view of the world seldom seen.  
@@ -763,7 +762,7 @@ Composite radar view showed red lines where inbound conventional rifle fire bega
 The hits were all AK-91 rounds so far - smart little missiles - probably fired by riflemen or AA bots on the rooftops they were approaching.
 
 
-It would take dozens of hits to overwhelm the EX1 reactive-generative-armor, but it wouldn't take too many hits before bones began to break.  
+It would take dozens of standard AK-91 hits to overwhelm the EX1 reactive-generative-armor, but it wouldn't take too many hits before bones began to break.  
 
 
 Dave was more worried about the landing.
@@ -775,7 +774,7 @@ Dave was more worried about the landing.
 As the AK-91 rounds struck the marines, they hit EX-1 reactive-generative-armor (RGA), a thick, multilayer armor bonded to the entire suit.
 
 
-Unlike most conventional rounds, the AK-91 rounds were energetic enough to penetrate the first layer of the RGA, a thin layer of modern conventional armor.  They then passed into the inches-thick non-newtonian layer, which reacted to the impact by hardening along force-lines that distributed the impact across as much of the RGA as possible.
+Unlike most conventional rounds, the AK-91 rounds were energetic enough to penetrate the first layer of the RGA, a thin layer of modern conventional armor.  They then passed into the inches-thick non-newtonian layer, which reacted to the impact by hardening along force-lines that distributed the impact across as much of the RGA as possible - ideally across the entire exoskeleton.
 
 
 The AK-91 rounds, having nowhere near enough energy to crush the suit, stayed in the non-newtonian layer, but flexed the armor.
@@ -824,10 +823,10 @@ AMBUSH
 ------
 
 
-Combat-view came up, and gave Dave an initial situational scan.   Front-facing optical view came up shortly after.
+[Combat-view gave Dave an initial situational scan.   Front-facing optical camera view came up shortly after.] [BUGBUG wonky]
 
 
-On his left, he saw a top-down video-game-like view of the area surrounding the buildings the exocorps had landed on.  
+On his left, he saw a top-down video-game-like view -  the area surrounding the buildings the exocorps had landed on.  
 
 
 On his right, front-facing optical view appeared - at least some of his cameras had survived.
@@ -836,13 +835,13 @@ On his right, front-facing optical view appeared - at least some of his cameras 
 He saw his position - one floor down from the rooftop of the most forward building in the landing area.  Only a few feet from a window.  That window faced a sixteen story drop.  
 
 
-Out as far as one hundred meters, Dave could see red outlines of enemy troops against green building wireframes.  A dozen AA bots roamed within 100 meters - ready and firing - forming up a line of attack in this block and the next.  A few hostile soldiers with AK-91s were still standing as well.
+In buildings a far out as far as one hundred meters, Dave could see red outlines of enemy troops against green building wireframes.  A dozen AA bots roamed within 100 meters - ready and firing - forming up a line of attack in this block and the next.  A few hostile soldiers with AK-91s were still standing as well.
 
 
-Dave could feel his own troops - he saw green outlines, and felt a strong electrostim pull on the part of his body closest to each of them.  His xjumps reset as he pushed himself up.  Automation ducked him almost immediately, rolled him on his back, and aimed his weapons at a red outline - a twelve-foot-wide spider-like AA-robot that was crashing through a wall towards him at speed, having climbed up from a floor from below.
+Dave could feel his own troops - he saw green outlines, and felt a strong electrostim pull on the part of his body closest to each of them.  That calmed him.  His xjumps reset as he pushed himself up.  Automation ducked him almost immediately, rolled him on his back, and aimed his weapons at a red outline - a twelve-foot-wide spider-like AA-robot that was crashing through a wall towards him at speed, having climbed up from a floor from below.
 
 
-Dave's mind could not help but do what it was trained to do, evaluate the use of deadly force.  He approved.  
+Dave's mind could not help but do what it was trained to do, evaluate the use of deadly force.  He approved instantly.  
 
 
 Implants in Dave's brain read his evaluation and fired two bursts from two of his machine guns - automation chose the appropriate rounds.  Over one hundred blades of spinning nanosteel discs no more than a dozen molecules thick fired forth, followed immediately two explosive rounds.   
@@ -1134,7 +1133,7 @@ Composite-radar-view went low-res as they got closer to the city center.  Laser 
 But they advanced at pace all the same.  In minutes, they saw Bai Bombah and power plant #2 towering ahead, 100 meters to the north.  
 
 
-[BUGBUG: Describe Bai Bombah] 
+[BUGBUG: Describe Bai Bombah + MUST HAVE a map for this to make sense - draw it] 
 
 
 Dave called a halt.
