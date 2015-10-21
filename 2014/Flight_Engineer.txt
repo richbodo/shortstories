@@ -545,7 +545,7 @@ The other two walls were filled by communications patch panels.
 
 
 
-Tom closed the door and looked at the notes he had been handed.
+Tom looked at the notes he had been handed.
 
 
 
@@ -815,9 +815,8 @@ cackling sound.  That's when things took a turn for the worse.
 
 The bugs swarmed him all at once.  Biting and gnashing.  He wasn't certain if
 they were after his health or his sanity, but if he had to guess, he would
-have said "both".  
-
-
+have said "both".  It wasn't long before Tom realized that he was losing on both
+counts.  Time lost it's meaning.  He was sick, unkempt, and hurting.
 
 In the first few weeks of his battle against the bugs, the best he could do
 was to try to size them up.  He was simply overwhelmed.  They came from
@@ -828,37 +827,29 @@ not, making him pay for his hubris with a larger bite.  After a month or two
 of counterproductive bug crushing, he had twice as many bugs to deal with as
 when he had begun.  But patterns had begun to emerge.  
 
-
-
 He stopped fighting them.  He knew which bugs bit the hardest, which bugs he
-could squish, and which he could not.  He continued to study them,
+could squish, and which he could not.  He even found evidence of bugs that 
+dissapeared when anyone looked at them.  He continued to study them,
 experimenting on them, getting to know them and where they came from.  They
-had a language all their own.  On the day Tom achieved the seemingly
+had an interesting language all their own.  On the day Tom achieved the seemingly
 impossible feat of learning the common language of all bugs, one particularly
 large bug, named Elezando Mountain Dew Macho Camacho Overflow, which Tom knew
 could not be killed without replacing every piece of metal in the entire
 plane, adopted Tom.
-
-
 
 Overflow was a massive bug.  He looked vaguely presidential.  An Immortal Bug,
 the other bugs would say.  They had long talks together.  Overflow would teach
 Tom how to use bugs to do amazing things.  Little by little Tom became more
 accustomed with thinking like Overflow.
 
-
-
 "You know, you're a bug too, Tom.", Overflow would say, "To the other humans,
 at least.  Something to be fixed."
 
 "It all depends on your perspective, I suppose.", Tom would say.
 
-
-
 In the end, Overflow convinced Tom that he could never protect himself or
 anyone else against the bugs.  And Tom knew he was right.  He had to learn to
 live with them - adopt a new perspective.
-
 
 
 One day, years later, Overflow sat Tom down on the windy rung of a ladder.
@@ -873,7 +864,8 @@ knowledge of conventional bugs.
 "I would have to introduce you to the various Physics Bugs, if I thought you
 were meant to move on to further mastery.", Overflow said.
 
-"But, I feel like I *am* meant to be here, debugging, forever, with you."
+"But, I feel like I *am* meant to be here, debugging, forever, with you...
+I...I defeated a few heisenbugs already!"
 
 "No, Tom.  It is time to achieve your true destiny."
 
