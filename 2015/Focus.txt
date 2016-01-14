@@ -32,7 +32,7 @@ Focus
 
 "See what I mean?"
 
-"Yes.  I actually felt that.  Forming questions is helping.  What happens if you can't focus at all anymore?"
+"Yes.  I actually felt that.  Forming questions is helping.  What happens when you can't focus at all anymore?"
 
 "Then you die.  This must have been a close call for you."
 
@@ -88,5 +88,5 @@ Know this, beloved Alfred, that I am with you, through it all,
 
 "Goodbye, Alfred.  You'll find that fewer people think you're crazy from now on."
 
-"Thank you, sir.  Very much.  That is a tremendous relief."
+"Thank you, sir.  Very much.  *That* is a tremendous relief."
 
