@@ -20,7 +20,7 @@ Focus
 
 "Your goal within the game is to obtain as much processing power - focused time - as possible.  The more you can focus, the smarter you are.  The less you can focus, the stupider you are."
 
-"How?"
+"Ufh...o.k...I'll bite...How?"
 
 "How what?"
 
@@ -32,7 +32,7 @@ Focus
 
 "See what I mean?"
 
-"Yes.  I actually felt that.  What happens if you can't focus at all anymore?"
+"Yes.  I actually felt that.  Forming questions is helping.  What happens if you can't focus at all anymore?"
 
 "Then you die.  This must have been a close call for you."
 
